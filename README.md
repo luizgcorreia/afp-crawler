@@ -4,6 +4,7 @@ This repository contains small Python tools for the Archive of Formal Proofs top
 
 - `afp_topics_crawler.py` crawls the live topics pages and builds a JSON dataset.
 - `afp_topics_to_csv.py` converts that JSON dataset into a CSV with one row per topic-entry assignment.
+- `merge_afp_topics_into_metadata.py` merges deduplicated topic clusters into another metadata CSV on the `id` column.
 
 ## Included datasets
 
@@ -27,6 +28,19 @@ python3 afp_topics_to_csv.py --input afp_topics.json --output afp_topics.csv
 - `topic1`, `topic2`, `topic3`: the topic hierarchy extracted from the AFP page title.
 
 For example, the entry URL `https://www.isa-afp.org/entries/Dynamic_Pushdown_Networks.html` becomes the CSV id `Dynamic_Pushdown_Networks`.
+
+## Metadata merge
+
+To enrich another metadata CSV, merge on `id` and add the AFP topics as `domain_cluster1`, `domain_cluster2`, and `domain_cluster3`:
+
+```bash
+python3 merge_afp_topics_into_metadata.py \
+  --metadata-csv theories_metadata.csv \
+  --topics-csv afp_topics.csv \
+  --output theories_metadata_with_topics.csv
+```
+
+Before merging, the script deduplicates `afp_topics.csv` by `id`. If an entry appears multiple times, it keeps the row with the deepest topic assignment (most non-empty topic columns); ties are resolved by keeping the later row in the CSV.
 
 ## JSON format
 
