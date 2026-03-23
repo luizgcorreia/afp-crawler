@@ -1,0 +1,1292 @@
+id,topic1,topic2,topic3,published_year
+Dynamic_Pushdown_Networks,Computer science,,,2025
+Stratified_Datalog,Computer science,,,2025
+Mission_Time_LTL_Formula_Progression,Computer science,,,2025
+Pushdown_Systems,Computer science,,,2023
+Labeled_Transition_Systems,Computer science,,,2023
+MHComputation,Computer science,,,2023
+Concentrated_Liquidity_Market_Making_Operations,Computer science,Algorithms,,2026
+Set_Reconciliation,Computer science,Algorithms,,2025
+BurrowsWheeler,Computer science,Algorithms,,2025
+SuffixArray,Computer science,Algorithms,,2024
+Karatsuba_Sqrt,Computer science,Algorithms,,2024
+Parallel_Shear_Sort,Computer science,Algorithms,,2024
+Alpha_Beta_Pruning,Computer science,Algorithms,,2024
+Coppersmith_Method,Computer science,Algorithms,,2024
+Top_Down_Solver,Computer science,Algorithms,,2024
+LL1_Parser,Computer science,Algorithms,,2024
+MFOTL_Checker,Computer science,Algorithms,,2024
+QBF_Solver_Verification,Computer science,Algorithms,,2024
+Karatsuba,Computer science,Algorithms,,2024
+KnuthMorrisPratt,Computer science,Algorithms,,2023
+Earley_Parser,Computer science,Algorithms,,2023
+Efficient_Weighted_Path_Order,Computer science,Algorithms,,2023
+Combinatorial_Enumeration_Algorithms,Computer science,Algorithms,,2022
+Maximum_Segment_Sum,Computer science,Algorithms,,2022
+FSM_Tests,Computer science,Algorithms,,2022
+Prefix_Free_Code_Combinators,Computer science,Algorithms,,2022
+VYDRA_MDL,Computer science,Algorithms,,2022
+Gale_Shapley,Computer science,Algorithms,,2021
+MDP-Algorithms,Computer science,Algorithms,,2021
+Regression_Test_Selection,Computer science,Algorithms,,2021
+PAC_Checker,Computer science,Algorithms,,2020
+Sliding_Window_Algorithm,Computer science,Algorithms,,2020
+MFODL_Monitor_Optimized,Computer science,Algorithms,,2020
+Generalized_Counting_Sort,Computer science,Algorithms,,2019
+VerifyThis2019,Computer science,Algorithms,,2019
+Generic_Join,Computer science,Algorithms,,2019
+Adaptive_State_Counting,Computer science,Algorithms,,2019
+MFOTL_Monitor,Computer science,Algorithms,,2019
+IMP2_Binary_Heap,Computer science,Algorithms,,2019
+List_Inversions,Computer science,Algorithms,,2019
+IMP2,Computer science,Algorithms,,2019
+Auto2_Imperative_HOL,Computer science,Algorithms,,2018
+Optimal_BST,Computer science,Algorithms,,2018
+Hidden_Markov_Models,Computer science,Algorithms,,2018
+Monad_Memo_DP,Computer science,Algorithms,,2018
+VerifyThis2018,Computer science,Algorithms,,2018
+First_Order_Terms,Computer science,Algorithms,,2018
+Median_Of_Medians_Selection,Computer science,Algorithms,,2017
+Knuth_Morris_Pratt,Computer science,Algorithms,,2017
+Quick_Sort_Cost,Computer science,Algorithms,,2017
+Comparison_Sort_Lower_Bound,Computer science,Algorithms,,2017
+ROBDD,Computer science,Algorithms,,2016
+CYK,Computer science,Algorithms,,2016
+TortoiseHare,Computer science,Algorithms,,2015
+Imperative_Insertion_Sort,Computer science,Algorithms,,2014
+Boolean_Expression_Checkers,Computer science,Algorithms,,2014
+Selection_Heap_Sort,Computer science,Algorithms,,2014
+Efficient-Mergesort,Computer science,Algorithms,,2011
+SATSolverVerification,Computer science,Algorithms,,2008
+MuchAdoAboutTwo,Computer science,Algorithms,,2007
+Approximate_Model_Counting,Computer science,Algorithms,Approximation,2024
+Distributed_Distinct_Elements,Computer science,Algorithms,Approximation,2023
+Frequency_Moments,Computer science,Algorithms,Approximation,2022
+Approximation_Algorithms,Computer science,Algorithms,Approximation,2020
+RG_Locks,Computer science,Algorithms,Concurrent,2025
+ConcurrentGC,Computer science,Algorithms,Concurrent,2015
+Sumcheck_Protocol,Computer science,Algorithms,Distributed,2024
+Distributed_Distinct_Elements,Computer science,Algorithms,Distributed,2023
+Progress_Tracking,Computer science,Algorithms,Distributed,2021
+Chandy_Lamport,Computer science,Algorithms,Distributed,2020
+WOOT_Strong_Eventual_Consistency,Computer science,Algorithms,Distributed,2020
+Stellar_Quorums,Computer science,Algorithms,Distributed,2019
+OpSets,Computer science,Algorithms,Distributed,2018
+IMAP-CRDT,Computer science,Algorithms,Distributed,2017
+CRDT,Computer science,Algorithms,Distributed,2017
+Consensus_Refined,Computer science,Algorithms,Distributed,2015
+Heard_Of,Computer science,Algorithms,Distributed,2012
+Abortable_Linearizable_Modules,Computer science,Algorithms,Distributed,2012
+ClockSynchInst,Computer science,Algorithms,Distributed,2006
+GenClock,Computer science,Algorithms,Distributed,2005
+DiskPaxos,Computer science,Algorithms,Distributed,2005
+Closest_Pair_Points,Computer science,Algorithms,Geometry,2020
+Galois_Energy_Games,Computer science,Algorithms,Graph,2025
+Graph_Algorithms,Computer science,Algorithms,Graph,2025
+Difference_Bound_Matrices,Computer science,Algorithms,Graph,2024
+Worklist_Algorithms,Computer science,Algorithms,Graph,2024
+Derandomization_Conditional_Expectations,Computer science,Algorithms,Graph,2024
+Tree_Enumeration,Computer science,Algorithms,Graph,2023
+Expander_Graphs,Computer science,Algorithms,Graph,2023
+SCC_Bloemen_Sequential,Computer science,Algorithms,Graph,2022
+Relational_Minimum_Spanning_Trees,Computer science,Algorithms,Graph,2020
+Prim_Dijkstra_Simple,Computer science,Algorithms,Graph,2019
+Kruskal,Computer science,Algorithms,Graph,2019
+Prpu_Maxflow,Computer science,Algorithms,Graph,2017
+Floyd_Warshall,Computer science,Algorithms,Graph,2017
+EdmondsKarp_Maxflow,Computer science,Algorithms,Graph,2016
+DFS_Framework,Computer science,Algorithms,Graph,2016
+Gabow_SCC,Computer science,Algorithms,Graph,2014
+Roy_Floyd_Warshall,Computer science,Algorithms,Graph,2014
+Transitive-Closure-II,Computer science,Algorithms,Graph,2012
+Dijkstra_Shortest_Path,Computer science,Algorithms,Graph,2012
+Transitive-Closure,Computer science,Algorithms,Graph,2011
+GraphMarkingIBP,Computer science,Algorithms,Graph,2010
+Depth-First-Search,Computer science,Algorithms,Graph,2004
+Babai_Nearest_Plane,Computer science,Algorithms,Mathematical,2024
+Linear_Diophantine_Preprocessor,Computer science,Algorithms,Mathematical,2024
+Schoenhage_Strassen,Computer science,Algorithms,Mathematical,2024
+Karatsuba,Computer science,Algorithms,Mathematical,2024
+Gray_Codes,Computer science,Algorithms,Mathematical,2023
+Quantifier_Elimination_Hybrid,Computer science,Algorithms,Mathematical,2022
+Number_Theoretic_Transform,Computer science,Algorithms,Mathematical,2022
+Equivalence_Relation_Enumeration,Computer science,Algorithms,Mathematical,2022
+Virtual_Substitution,Computer science,Algorithms,Mathematical,2021
+BenOr_Kozen_Reif,Computer science,Algorithms,Mathematical,2021
+Modular_arithmetic_LLL_and_HNF_algorithms,Computer science,Algorithms,Mathematical,2021
+Safe_Distance,Computer science,Algorithms,Mathematical,2020
+Smith_Normal_Form,Computer science,Algorithms,Mathematical,2020
+Signature_Groebner,Computer science,Algorithms,Mathematical,2018
+LLL_Basis_Reduction,Computer science,Algorithms,Mathematical,2018
+Taylor_Models,Computer science,Algorithms,Mathematical,2018
+Diophantine_Eqns_Lin_Hom,Computer science,Algorithms,Mathematical,2017
+Groebner_Bases,Computer science,Algorithms,Mathematical,2016
+Hermite,Computer science,Algorithms,Mathematical,2015
+QR_Decomposition,Computer science,Algorithms,Mathematical,2015
+Echelon_Form,Computer science,Algorithms,Mathematical,2015
+UpDown_Scheme,Computer science,Algorithms,Mathematical,2015
+Gauss_Jordan,Computer science,Algorithms,Mathematical,2014
+Gauss-Jordan-Elim-Fun,Computer science,Algorithms,Mathematical,2011
+Polynomials,Computer science,Algorithms,Mathematical,2010
+FFT,Computer science,Algorithms,Mathematical,2005
+List_Update,Computer science,Algorithms,Online,2016
+Unconstrained_Optimization,Computer science,Algorithms,Optimization,2025
+Simplex,Computer science,Algorithms,Optimization,2018
+Quantum_Fourier_Transform,Computer science,Algorithms,Quantum computing,2025
+Registers,Computer science,Algorithms,Quantum computing,2021
+Projective_Measurements,Computer science,Algorithms,Quantum computing,2021
+Isabelle_Marries_Dirac,Computer science,Algorithms,Quantum computing,2020
+CVM_Distinct_Elements,Computer science,Algorithms,Randomized,2025
+Randomized_Closest_Pair,Computer science,Algorithms,Randomized,2024
+Derandomization_Conditional_Expectations,Computer science,Algorithms,Randomized,2024
+Approximate_Model_Counting,Computer science,Algorithms,Randomized,2024
+Sumcheck_Protocol,Computer science,Algorithms,Randomized,2024
+Executable_Randomized_Algorithms,Computer science,Algorithms,Randomized,2023
+Schwartz_Zippel,Computer science,Algorithms,Randomized,2023
+Distributed_Distinct_Elements,Computer science,Algorithms,Randomized,2023
+Expander_Graphs,Computer science,Algorithms,Randomized,2023
+Frequency_Moments,Computer science,Algorithms,Randomized,2022
+Universal_Hash_Families,Computer science,Algorithms,Randomized,2022
+Median_Method,Computer science,Algorithms,Randomized,2022
+Skip_Lists,Computer science,Algorithms,Randomized,2020
+Probabilistic_Prime_Tests,Computer science,Algorithms,Randomized,2019
+Randomised_BSTs,Computer science,Algorithms,Randomized,2018
+Probabilistic_While,Computer science,Algorithms,Randomized,2017
+Random_BSTs,Computer science,Algorithms,Randomized,2017
+Quick_Sort_Cost,Computer science,Algorithms,Randomized,2017
+Fisher_Yates,Computer science,Algorithms,Randomized,2016
+List_Update,Computer science,Algorithms,Randomized,2016
+Neural_Networks,Computer science,Artificial intelligence,,2025
+Stratified_Datalog,Computer science,Artificial intelligence,,2025
+Sigmoid_Universal_Approximation,Computer science,Artificial intelligence,,2025
+Boolos_Curious_Inference_Automated,Computer science,Artificial intelligence,,2022
+Verified_SAT_Based_AI_Planning,Computer science,Artificial intelligence,,2020
+AI_Planning_Languages_Semantics,Computer science,Artificial intelligence,,2020
+Workflow_Net_Fitness_Measures,Computer science,Automata and formal languages,,2026
+HOL-CSP_Proc-Omata,Computer science,Automata and formal languages,,2026
+Dynamic_Pushdown_Networks,Computer science,Automata and formal languages,,2025
+Pre_Star_CFG,Computer science,Automata and formal languages,,2025
+Pushdown_Automata,Computer science,Automata and formal languages,,2025
+Munta_Certificate_Checker,Computer science,Automata and formal languages,,2025
+Greibach_Normal_Form,Computer science,Automata and formal languages,,2025
+Two_Way_DFA_HF,Computer science,Automata and formal languages,,2025
+Parikh,Computer science,Automata and formal languages,,2025
+Dyck_Language,Computer science,Automata and formal languages,,2025
+Chomsky_Schuetzenberger,Computer science,Automata and formal languages,,2025
+Munta_Model_Checker,Computer science,Automata and formal languages,,2025
+Context_Free_Grammar,Computer science,Automata and formal languages,,2025
+Mission_Time_LTL_Language_Partition,Computer science,Automata and formal languages,,2025
+List_Power,Computer science,Automata and formal languages,,2025
+Mission_Time_LTL_to_Regular_Expression,Computer science,Automata and formal languages,,2025
+Mission_Time_LTL,Computer science,Automata and formal languages,,2025
+Nominal_Myhill_Nerode,Computer science,Automata and formal languages,,2023
+Pushdown_Systems,Computer science,Automata and formal languages,,2023
+Labeled_Transition_Systems,Computer science,Automata and formal languages,,2023
+IO_Language_Conformance,Computer science,Automata and formal languages,,2023
+Cook_Levin,Computer science,Automata and formal languages,,2023
+Two_Generated_Word_Monoids_Intersection,Computer science,Automata and formal languages,,2023
+Binary_Code_Imprimitive,Computer science,Automata and formal languages,,2023
+Multitape_To_Singletape_TM,Computer science,Automata and formal languages,,2022
+FSM_Tests,Computer science,Automata and formal languages,,2022
+ResiduatedTransitionSystem,Computer science,Automata and formal languages,,2022
+FO_Theory_Rewriting,Computer science,Automata and formal languages,,2022
+Regular_Tree_Relations,Computer science,Automata and formal languages,,2021
+Combinatorics_Words_Lyndon,Computer science,Automata and formal languages,,2021
+Combinatorics_Words_Graph_Lemma,Computer science,Automata and formal languages,,2021
+Combinatorics_Words,Computer science,Automata and formal languages,,2021
+Extended_Finite_State_Machines,Computer science,Automata and formal languages,,2020
+Extended_Finite_State_Machine_Inference,Computer science,Automata and formal languages,,2020
+LTL_Normal_Form,Computer science,Automata and formal languages,,2020
+MFODL_Monitor_Optimized,Computer science,Automata and formal languages,,2020
+Adaptive_State_Counting,Computer science,Automata and formal languages,,2019
+C2KA_DistributedSystems,Computer science,Automata and formal languages,,2019
+MFOTL_Monitor,Computer science,Automata and formal languages,,2019
+LTL_Master_Theorem,Computer science,Automata and formal languages,,2019
+Universal_Turing_Machine,Computer science,Automata and formal languages,,2019
+Factored_Transition_System_Bounding,Computer science,Automata and formal languages,,2018
+Partial_Order_Reduction,Computer science,Automata and formal languages,,2018
+Probabilistic_Timed_Automata,Computer science,Automata and formal languages,,2018
+Stochastic_Matrices,Computer science,Automata and formal languages,,2017
+Transition_Systems_and_Automata,Computer science,Automata and formal languages,,2017
+Buchi_Complementation,Computer science,Automata and formal languages,,2017
+LocalLexing,Computer science,Automata and formal languages,,2017
+Posix-Lexing,Computer science,Automata and formal languages,,2016
+CYK,Computer science,Automata and formal languages,,2016
+KAD,Computer science,Automata and formal languages,,2016
+Timed_Automata,Computer science,Automata and formal languages,,2016
+LTL,Computer science,Automata and formal languages,,2016
+LTL_to_DRA,Computer science,Automata and formal languages,,2015
+Formula_Derivatives,Computer science,Automata and formal languages,,2015
+Probabilistic_System_Zoo,Computer science,Automata and formal languages,,2015
+Finite_Automata_HF,Computer science,Automata and formal languages,,2015
+MSO_Regex_Equivalence,Computer science,Automata and formal languages,,2014
+LTL_to_GBA,Computer science,Automata and formal languages,,2014
+CAVA_LTL_Modelchecker,Computer science,Automata and formal languages,,2014
+CAVA_Automata,Computer science,Automata and formal languages,,2014
+Regular_Algebras,Computer science,Automata and formal languages,,2014
+Regex_Equivalence,Computer science,Automata and formal languages,,2014
+KAT_and_DRA,Computer science,Automata and formal languages,,2014
+Coinductive_Languages,Computer science,Automata and formal languages,,2013
+Kleene_Algebra,Computer science,Automata and formal languages,,2013
+Stuttering_Equivalence,Computer science,Automata and formal languages,,2012
+Markov_Models,Computer science,Automata and formal languages,,2012
+Myhill-Nerode,Computer science,Automata and formal languages,,2011
+KBPs,Computer science,Automata and formal languages,,2011
+Statecharts,Computer science,Automata and formal languages,,2010
+Regular-Sets,Computer science,Automata and formal languages,,2010
+Presburger-Automata,Computer science,Automata and formal languages,,2009
+Tree-Automata,Computer science,Automata and formal languages,,2009
+Functional-Automata,Computer science,Automata and formal languages,,2004
+Dynamic_Pushdown_Networks,Computer science,Concurrency,,2025
+RG_Locks,Computer science,Concurrency,,2025
+Weak_Spectroscopy,Computer science,Concurrency,,2025
+Serializable,Computer science,Concurrency,,2025
+LTL3_Semantics,Computer science,Concurrency,,2024
+ResiduatedTransitionSystem2,Computer science,Concurrency,,2024
+ConcurrentHOL,Computer science,Concurrency,,2024
+Coupledsim_Contrasim,Computer science,Concurrency,,2023
+CommCSL,Computer science,Concurrency,,2023
+ResiduatedTransitionSystem,Computer science,Concurrency,,2022
+TESL_Language,Computer science,Concurrency,,2019
+Store_Buffer_Reduction,Computer science,Concurrency,,2019
+Concurrent_Revisions,Computer science,Concurrency,,2018
+Concurrent_Ref_Alg,Computer science,Concurrency,,2016
+FLP,Computer science,Concurrency,,2016
+HOL-CSP_Proc-Omata,Computer science,Concurrency,Process calculi,2026
+HOL-CSP_PTick,Computer science,Concurrency,Process calculi,2026
+Restriction_Spaces-Examples,Computer science,Concurrency,Process calculi,2025
+HOL-CSP_RS,Computer science,Concurrency,Process calculi,2025
+ProcessComposition,Computer science,Concurrency,Process calculi,2024
+Broadcast_Psi,Computer science,Concurrency,Process calculi,2024
+HOL-CSP_OpSem,Computer science,Concurrency,Process calculi,2023
+HOL-CSPM,Computer science,Concurrency,Process calculi,2023
+CSP_RefTK,Computer science,Concurrency,Process calculi,2020
+HOL-CSP,Computer science,Concurrency,Process calculi,2019
+Modal_Logics_for_NTS,Computer science,Concurrency,Process calculi,2016
+Noninterference_Concurrent_Composition,Computer science,Concurrency,Process calculi,2016
+Noninterference_Sequential_Composition,Computer science,Concurrency,Process calculi,2016
+Encodability_Process_Calculi,Computer science,Concurrency,Process calculi,2015
+Noninterference_Generic_Unwinding,Computer science,Concurrency,Process calculi,2015
+AODV,Computer science,Concurrency,Process calculi,2014
+AWN,Computer science,Concurrency,Process calculi,2014
+Psi_Calculi,Computer science,Concurrency,Process calculi,2012
+Pi_Calculus,Computer science,Concurrency,Process calculi,2012
+CCS,Computer science,Concurrency,Process calculi,2012
+Circus,Computer science,Concurrency,Process calculi,2012
+Serializable,Computer science,Data management systems,,2025
+MFOTL_Checker,Computer science,Data management systems,,2024
+Query_Optimization,Computer science,Data management systems,,2022
+Safe_Range_RC,Computer science,Data management systems,,2022
+Eval_FO,Computer science,Data management systems,,2022
+BTree,Computer science,Data management systems,,2021
+Generic_Join,Computer science,Data management systems,,2019
+Workflow_Net_Fitness_Measures,Computer science,Data structures,,2026
+Neural_Networks,Computer science,Data structures,,2025
+List_Power,Computer science,Data structures,,2025
+SuffixArray,Computer science,Data structures,,2024
+Difference_Bound_Matrices,Computer science,Data structures,,2024
+Region_Quadtrees,Computer science,Data structures,,2024
+Fixed_Length_Vector,Computer science,Data structures,,2023
+Nano_JSON,Computer science,Data structures,,2022
+Real_Time_Deque,Computer science,Data structures,,2022
+Prefix_Free_Code_Combinators,Computer science,Data structures,,2022
+Van_Emde_Boas_Trees,Computer science,Data structures,,2021
+Fresh_Identifiers,Computer science,Data structures,,2021
+BTree,Computer science,Data structures,,2021
+Hood_Melville_Queue,Computer science,Data structures,,2021
+Finite-Map-Extras,Computer science,Data structures,,2020
+Shadow_SC_DOM,Computer science,Data structures,,2020
+Shadow_DOM,Computer science,Data structures,,2020
+SC_DOM_Components,Computer science,Data structures,,2020
+DOM_Components,Computer science,Data structures,,2020
+Core_SC_DOM,Computer science,Data structures,,2020
+Relational_Disjoint_Set_Forests,Computer science,Data structures,,2020
+ADS_Functor,Computer science,Data structures,,2020
+Skip_Lists,Computer science,Data structures,,2020
+Interval_Arithmetic_Word32,Computer science,Data structures,,2019
+Priority_Search_Trees,Computer science,Data structures,,2019
+IMP2_Binary_Heap,Computer science,Data structures,,2019
+KD_Tree,Computer science,Data structures,,2019
+Core_DOM,Computer science,Data structures,,2018
+Auto2_Imperative_HOL,Computer science,Data structures,,2018
+Generic_Deriving,Computer science,Data structures,,2018
+Randomised_BSTs,Computer science,Data structures,,2018
+Optimal_BST,Computer science,Data structures,,2018
+OpSets,Computer science,Data structures,,2018
+Weight_Balanced_Trees,Computer science,Data structures,,2018
+Treaps,Computer science,Data structures,,2018
+Taylor_Models,Computer science,Data structures,,2018
+IMAP-CRDT,Computer science,Data structures,,2017
+Root_Balanced_Tree,Computer science,Data structures,,2017
+CRDT,Computer science,Data structures,,2017
+Random_BSTs,Computer science,Data structures,,2017
+Refine_Imperative_HOL,Computer science,Data structures,,2016
+Pairing_Heap,Computer science,Data structures,,2016
+Word_Lib,Computer science,Data structures,,2016
+ROBDD,Computer science,Data structures,,2016
+Matrix_Tensor,Computer science,Data structures,,2016
+List_Interleaving,Computer science,Data structures,,2015
+Dynamic_Tables,Computer science,Data structures,,2015
+Trie,Computer science,Data structures,,2015
+Deriving,Computer science,Data structures,,2015
+XML,Computer science,Data structures,,2014
+Priority_Queue_Braun,Computer science,Data structures,,2014
+Skew_Heap,Computer science,Data structures,,2014
+Splay_Tree,Computer science,Data structures,,2014
+Amortized_Complexity,Computer science,Data structures,,2014
+Native_Word,Computer science,Data structures,,2013
+IEEE_Floating_Point,Computer science,Data structures,,2013
+Containers,Computer science,Data structures,,2013
+Datatype_Order_Generator,Computer science,Data structures,,2012
+List-Infinite,Computer science,Data structures,,2011
+Finger-Trees,Computer science,Data structures,,2010
+Binomial-Queues,Computer science,Data structures,,2010
+Binomial-Heaps,Computer science,Data structures,,2010
+Matrix,Computer science,Data structures,,2010
+List-Index,Computer science,Data structures,,2010
+Collections,Computer science,Data structures,,2009
+FinFun,Computer science,Data structures,,2009
+Huffman,Computer science,Data structures,,2008
+BDD,Computer science,Data structures,,2008
+FileRefinement,Computer science,Data structures,,2004
+Lazy-Lists-II,Computer science,Data structures,,2004
+BinarySearchTree,Computer science,Data structures,,2004
+AVL-Trees,Computer science,Data structures,,2004
+List_Power,Computer science,Functional programming,,2025
+More_LazyLists,Computer science,Functional programming,,2024
+BirdKMP,Computer science,Functional programming,,2020
+Hello_World,Computer science,Functional programming,,2020
+Generalized_Counting_Sort,Computer science,Functional programming,,2019
+Binding_Syntax_Theory,Computer science,Functional programming,,2019
+Monad_Memo_DP,Computer science,Functional programming,,2018
+BNF_CC,Computer science,Functional programming,,2018
+HOLCF-Prelude,Computer science,Functional programming,,2017
+Optics,Computer science,Functional programming,,2017
+Probabilistic_While,Computer science,Functional programming,,2017
+Monomorphic_Monad,Computer science,Functional programming,,2017
+Monad_Normalisation,Computer science,Functional programming,,2017
+CryptHOL,Computer science,Functional programming,,2017
+Applicative_Lifting,Computer science,Functional programming,,2015
+Lifting_Definition_Option,Computer science,Functional programming,,2014
+Stream_Fusion_Code,Computer science,Functional programming,,2014
+XML,Computer science,Functional programming,,2014
+Certification_Monads,Computer science,Functional programming,,2014
+Show,Computer science,Functional programming,,2014
+Partial_Function_MR,Computer science,Functional programming,,2014
+Tail_Recursive_Functions,Computer science,Functional programming,,2013
+Tycon,Computer science,Functional programming,,2012
+Coinductive,Computer science,Functional programming,,2010
+WorkerWrapper,Computer science,Functional programming,,2009
+Stream-Fusion,Computer science,Functional programming,,2009
+X86_Semantics,Computer science,Hardware,,2021
+SPARCv8,Computer science,Hardware,,2016
+Discrete-UCB,Computer science,Machine learning,,2025
+No_Free_Lunch_ML,Computer science,Machine learning,,2025
+Sigmoid_Universal_Approximation,Computer science,Machine learning,,2025
+Inductive_Inference,Computer science,Machine learning,,2020
+Deep_Learning,Computer science,Machine learning,,2016
+IsaNet,Computer science,Networks,,2022
+UPF_Firewall,Computer science,Networks,,2017
+LOFT,Computer science,Networks,,2016
+Iptables_Semantics,Computer science,Networks,,2016
+Routing,Computer science,Networks,,2016
+Simple_Firewall,Computer science,Networks,,2016
+IP_Addresses,Computer science,Networks,,2016
+Isabelle-Solidity,Computer science,Programming languages,,2026
+Stratified_Datalog,Computer science,Programming languages,,2025
+IMP_With_Speculation,Computer science,Programming languages,,2024
+Solidity,Computer science,Programming languages,,2022
+Clean,Computer science,Programming languages,,2019
+Decl_Sem_Fun_PL,Computer science,Programming languages,,2017
+LL1_Parser,Computer science,Programming languages,Compiling,2024
+IMP_Compiler_Reuse,Computer science,Programming languages,Compiling,2022
+IMP_Compiler,Computer science,Programming languages,Compiling,2021
+VeriComp,Computer science,Programming languages,Compiling,2020
+CakeML_Codegen,Computer science,Programming languages,Compiling,2019
+Minimal_SSA,Computer science,Programming languages,Compiling,2017
+Formal_SSA,Computer science,Programming languages,Compiling,2016
+Density_Compiler,Computer science,Programming languages,Compiling,2014
+NormByEval,Computer science,Programming languages,Compiling,2008
+Compiling-Exceptions-Correctly,Computer science,Programming languages,Compiling,2004
+Transport,Computer science,Programming languages,Lambda calculi,2023
+ResiduatedTransitionSystem,Computer science,Programming languages,Lambda calculi,2022
+LambdaAuth,Computer science,Programming languages,Lambda calculi,2019
+Binding_Syntax_Theory,Computer science,Programming languages,Lambda calculi,2019
+Higher_Order_Terms,Computer science,Programming languages,Lambda calculi,2019
+LambdaMu,Computer science,Programming languages,Lambda calculi,2017
+Launchbury,Computer science,Programming languages,Lambda calculi,2013
+PCF,Computer science,Programming languages,Lambda calculi,2012
+Lam-ml-Normalization,Computer science,Programming languages,Lambda calculi,2010
+POPLmark-deBruijn,Computer science,Programming languages,Lambda calculi,2007
+AutoCorres2,Computer science,Programming languages,Language definitions,2024
+JinjaDCI,Computer science,Programming languages,Language definitions,2021
+Isabelle_C,Computer science,Programming languages,Language definitions,2019
+Safe_OCL,Computer science,Programming languages,Language definitions,2019
+WebAssembly,Computer science,Programming languages,Language definitions,2018
+CakeML,Computer science,Programming languages,Language definitions,2018
+Complx,Computer science,Programming languages,Language definitions,2016
+Isabelle_Meta_Model,Computer science,Programming languages,Language definitions,2015
+pGCL,Computer science,Programming languages,Language definitions,2014
+GPU_Kernel_PL,Computer science,Programming languages,Language definitions,2014
+FocusStreamsCaseStudies,Computer science,Programming languages,Language definitions,2013
+AutoFocus-Stream,Computer science,Programming languages,Language definitions,2011
+LightweightJava,Computer science,Programming languages,Language definitions,2011
+Locally-Nameless-Sigma,Computer science,Programming languages,Language definitions,2010
+Simpl,Computer science,Programming languages,Language definitions,2008
+JinjaThreads,Computer science,Programming languages,Language definitions,2007
+CoreC++,Computer science,Programming languages,Language definitions,2006
+FeatherweightJava,Computer science,Programming languages,Language definitions,2006
+Jinja,Computer science,Programming languages,Language definitions,2005
+RG_Locks,Computer science,Programming languages,Logics,2025
+Shallow_Expressions,Computer science,Programming languages,Logics,2025
+AutoCorres2,Computer science,Programming languages,Logics,2024
+HyperHoareLogic,Computer science,Programming languages,Logics,2023
+CommCSL,Computer science,Programming languages,Logics,2023
+Rensets,Computer science,Programming languages,Logics,2023
+HoareForDivergence,Computer science,Programming languages,Logics,2023
+Separation_Logic_Unbounded,Computer science,Programming languages,Logics,2022
+Combinable_Wands,Computer science,Programming languages,Logics,2022
+Package_logic,Computer science,Programming languages,Logics,2022
+Registers,Computer science,Programming languages,Logics,2021
+Correctness_Algebras,Computer science,Programming languages,Logics,2021
+Relational-Incorrectness-Logic,Computer science,Programming languages,Logics,2020
+Differential_Game_Logic,Computer science,Programming languages,Logics,2019
+QHLProver,Computer science,Programming languages,Logics,2019
+UTP,Computer science,Programming languages,Logics,2019
+IMP2,Computer science,Programming languages,Logics,2019
+Hoare_Time,Computer science,Programming languages,Logics,2018
+Differential_Dynamic_Logic,Computer science,Programming languages,Logics,2017
+Complx,Computer science,Programming languages,Logics,2016
+Separata,Computer science,Programming languages,Logics,2016
+KAD,Computer science,Programming languages,Logics,2016
+ConcurrentIMP,Computer science,Programming languages,Logics,2015
+RefinementReactive,Computer science,Programming languages,Logics,2014
+KAT_and_DRA,Computer science,Programming languages,Logics,2014
+Automatic_Refinement,Computer science,Programming languages,Logics,2013
+Ribbon_Proofs,Computer science,Programming languages,Logics,2013
+Kleene_Algebra,Computer science,Programming languages,Logics,2013
+Separation_Logic_Imperative_HOL,Computer science,Programming languages,Logics,2012
+Separation_Algebra,Computer science,Programming languages,Logics,2012
+TLA,Computer science,Programming languages,Logics,2011
+MonoBoolTranAlgebra,Computer science,Programming languages,Logics,2011
+DataRefinementIBP,Computer science,Programming languages,Logics,2010
+BytecodeLogicJmlTypes,Computer science,Programming languages,Logics,2008
+SIFPL,Computer science,Programming languages,Logics,2008
+Simpl,Computer science,Programming languages,Logics,2008
+Abstract-Hoare-Logics,Computer science,Programming languages,Logics,2006
+Interpreter_Optimizations,Computer science,Programming languages,Misc,2020
+Case_Labeling,Computer science,Programming languages,Misc,2015
+Pop_Refinement,Computer science,Programming languages,Misc,2014
+JiveDataStoreModel,Computer science,Programming languages,Misc,2005
+Dynamic_Pushdown_Networks,Computer science,Programming languages,Static analysis,2025
+Stratified_Datalog,Computer science,Programming languages,Static analysis,2025
+IMP_Noninterference_Extension,Computer science,Programming languages,Static analysis,2024
+IMP_Noninterference,Computer science,Programming languages,Static analysis,2024
+Dominance_CHK,Computer science,Programming languages,Static analysis,2021
+Abs_Int_ITP2012,Computer science,Programming languages,Static analysis,2016
+InfPathElimination,Computer science,Programming languages,Static analysis,2016
+Call_Arity,Computer science,Programming languages,Static analysis,2015
+RIPEMD-160-SPARK,Computer science,Programming languages,Static analysis,2011
+Shivers-CFA,Computer science,Programming languages,Static analysis,2010
+HRB-Slicing,Computer science,Programming languages,Static analysis,2009
+Slicing,Computer science,Programming languages,Static analysis,2008
+Program-Conflict-Analysis,Computer science,Programming languages,Static analysis,2007
+IMP_Noninterference_Extension,Computer science,Programming languages,Type systems,2024
+IMP_Noninterference,Computer science,Programming languages,Type systems,2024
+Transport,Computer science,Programming languages,Type systems,2023
+MiniSail,Computer science,Programming languages,Type systems,2021
+Physical_Quantities,Computer science,Programming languages,Type systems,2020
+Name_Carrying_Type_Inference,Computer science,Programming languages,Type systems,2017
+Dependent_SIFUM_Type_Systems,Computer science,Programming languages,Type systems,2016
+WHATandWHERE_Security,Computer science,Programming languages,Type systems,2014
+Strong_Security,Computer science,Programming languages,Type systems,2014
+SIFUM_Type_Systems,Computer science,Programming languages,Type systems,2014
+Possibilistic_Noninterference,Computer science,Programming languages,Type systems,2012
+VolpanoSmith,Computer science,Programming languages,Type systems,2008
+MiniML,Computer science,Programming languages,Type systems,2004
+Differential_Privacy,Computer science,Security,,2025
+IMP_Noninterference_Extension,Computer science,Security,,2024
+IMP_With_Speculation,Computer science,Security,,2024
+Secret_Directed_Unwinding,Computer science,Security,,2024
+Relative_Security,Computer science,Security,,2024
+IMP_Noninterference,Computer science,Security,,2024
+Sumcheck_Protocol,Computer science,Security,,2024
+CommCSL,Computer science,Security,,2023
+ABY3_Protocols,Computer science,Security,,2023
+CRYSTALS-Kyber,Computer science,Security,,2022
+IsaNet,Computer science,Security,,2022
+Logging_Independent_Anonymity,Computer science,Security,,2021
+CoSMed,Computer science,Security,,2021
+CoSMeDis,Computer science,Security,,2021
+CoCon,Computer science,Security,,2021
+BD_Security_Compositional,Computer science,Security,,2021
+IFC_Tracking,Computer science,Security,,2021
+Relational_Method,Computer science,Security,,2020
+Attack_Trees,Computer science,Security,,2020
+Stateful_Protocol_Composition_and_Typing,Computer science,Security,,2020
+Automated_Stateful_Protocol_Verification,Computer science,Security,,2020
+Relational-Incorrectness-Logic,Computer science,Security,,2020
+LambdaAuth,Computer science,Security,,2019
+Multi_Party_Computation,Computer science,Security,,2019
+Modular_Assembly_Kit_Security,Computer science,Security,,2018
+Security_Protocol_Refinement,Computer science,Security,,2017
+Key_Agreement_Strong_Adversaries,Computer science,Security,,2017
+UPF_Firewall,Computer science,Security,,2017
+Password_Authentication_Protocol,Computer science,Security,,2017
+SPARCv8,Computer science,Security,,2016
+Dependent_SIFUM_Refinement,Computer science,Security,,2016
+Dependent_SIFUM_Type_Systems,Computer science,Security,,2016
+Noninterference_Concurrent_Composition,Computer science,Security,,2016
+Noninterference_Sequential_Composition,Computer science,Security,,2016
+Noninterference_Inductive_Unwinding,Computer science,Security,,2015
+Noninterference_Ipurge_Unwinding,Computer science,Security,,2015
+Noninterference_Generic_Unwinding,Computer science,Security,,2015
+UPF,Computer science,Security,,2014
+CISC-Kernel,Computer science,Security,,2014
+Network_Security_Policy_Verification,Computer science,Security,,2014
+Noninterference_CSP,Computer science,Security,,2014
+WHATandWHERE_Security,Computer science,Security,,2014
+Strong_Security,Computer science,Security,,2014
+SIFUM_Type_Systems,Computer science,Security,,2014
+Bounded_Deducibility_Security,Computer science,Security,,2014
+HyperCTL,Computer science,Security,,2014
+Probabilistic_Noninterference,Computer science,Security,,2014
+CryptoBasedCompositionalProperties,Computer science,Security,,2014
+Possibilistic_Noninterference,Computer science,Security,,2012
+Inductive_Confidentiality,Computer science,Security,,2012
+InformationFlowSlicing_Inter,Computer science,Security,,2010
+InformationFlowSlicing,Computer science,Security,,2010
+SIFPL,Computer science,Security,,2008
+VolpanoSmith,Computer science,Security,,2008
+HotelKeyCards,Computer science,Security,,2006
+Compressed_Oracles,Computer science,Security,Cryptography,2025
+Oneway2Hiding,Computer science,Security,Cryptography,2025
+Hidden_Number_Problem,Computer science,Security,Cryptography,2025
+Babai_Nearest_Plane,Computer science,Security,Cryptography,2024
+Coppersmith_Method,Computer science,Security,Cryptography,2024
+CRYSTALS-Kyber_Security,Computer science,Security,Cryptography,2023
+Crypto_Standards,Computer science,Security,Cryptography,2023
+CVP_Hardness,Computer science,Security,Cryptography,2023
+Constructive_Cryptography_CM,Computer science,Security,Cryptography,2021
+Sigma_Commit_Crypto,Computer science,Security,Cryptography,2019
+Constructive_Cryptography,Computer science,Security,Cryptography,2018
+Game_Based_Crypto,Computer science,Security,Cryptography,2017
+CryptHOL,Computer science,Security,Cryptography,2017
+Elliptic_Curves_Group_Law,Computer science,Security,Cryptography,2017
+RSAPSS,Computer science,Security,Cryptography,2005
+Isabelle-Solidity,Computer science,Semantics and reasoning,,2026
+HOL-CSP_Proc-Omata,Computer science,Semantics and reasoning,,2026
+HOL-CSP_PTick,Computer science,Semantics and reasoning,,2026
+Weak_Spectroscopy,Computer science,Semantics and reasoning,,2025
+Z_Toolkit,Computer science,Semantics and reasoning,,2025
+Shallow_Expressions,Computer science,Semantics and reasoning,,2025
+Restriction_Spaces-Ultrametric,Computer science,Semantics and reasoning,,2025
+Restriction_Spaces,Computer science,Semantics and reasoning,,2025
+HOL-CSP_RS,Computer science,Semantics and reasoning,,2025
+Differential_Privacy,Computer science,Semantics and reasoning,,2025
+DP_QBS,Computer science,Semantics and reasoning,,2025
+NREST,Computer science,Semantics and reasoning,,2024
+IMP_Noninterference_Extension,Computer science,Semantics and reasoning,,2024
+IMP_With_Speculation,Computer science,Semantics and reasoning,,2024
+LTL3_Semantics,Computer science,Semantics and reasoning,,2024
+Isabelle_DOF,Computer science,Semantics and reasoning,,2024
+AutoCorres2,Computer science,Semantics and reasoning,,2024
+HOL-CSP_OpSem,Computer science,Semantics and reasoning,,2023
+HOL-CSPM,Computer science,Semantics and reasoning,,2023
+Transport,Computer science,Semantics and reasoning,,2023
+S_Finite_Measure_Monad,Computer science,Semantics and reasoning,,2023
+Quantales_Converse,Computer science,Semantics and reasoning,,2023
+CHERI-C_Memory_Model,Computer science,Semantics and reasoning,,2022
+Solidity,Computer science,Semantics and reasoning,,2022
+Quasi_Borel_Spaces,Computer science,Semantics and reasoning,,2022
+Registers,Computer science,Semantics and reasoning,,2021
+X86_Semantics,Computer science,Semantics and reasoning,,2021
+CSP_RefTK,Computer science,Semantics and reasoning,,2020
+Isabelle_C,Computer science,Semantics and reasoning,,2019
+Clean,Computer science,Semantics and reasoning,,2019
+TESL_Language,Computer science,Semantics and reasoning,,2019
+HOL-CSP,Computer science,Semantics and reasoning,,2019
+QHLProver,Computer science,Semantics and reasoning,,2019
+Transformer_Semantics,Computer science,Semantics and reasoning,,2018
+Refine_Imperative_HOL,Computer science,Semantics and reasoning,,2016
+Launchbury,Computer science,Semantics and reasoning,,2013
+Refine_Monadic,Computer science,Semantics and reasoning,,2012
+DCR-ExecutionEquivalence,Computer science,System description languages,,2023
+TESL_Language,Computer science,System description languages,,2019
+Architectural_Design_Patterns,Computer science,System description languages,,2018
+DynamicArchitectures,Computer science,System description languages,,2017
+Promela,Computer science,System description languages,,2014
+ComponentDependencies,Computer science,System description languages,,2014
+Featherweight_OCL,Computer science,System description languages,,2014
+Circus,Computer science,System description languages,,2012
+Abstract_Substitution,Logic,,,2024
+Boolos_Curious_Inference_Automated,Logic,,,2022
+MHComputation,Logic,Computability,,2023
+Cook_Levin,Logic,Computability,,2023
+Boolos_Curious_Inference_Automated,Logic,Computability,,2022
+Multitape_To_Singletape_TM,Logic,Computability,,2022
+DPRM_Theorem,Logic,Computability,,2022
+Ackermanns_not_PR,Logic,Computability,,2022
+Inductive_Inference,Logic,Computability,,2020
+Universal_Turing_Machine,Logic,Computability,,2019
+Minsky_Machines,Logic,Computability,,2018
+Recursion-Theory-I,Logic,Computability,,2008
+FaithfulPMLinHOL,Logic,General logic,,2025
+First_Order_Clause,Logic,General logic,,2025
+CondNormReasHOL,Logic,General logic,,2024
+Q0_Soundness,Logic,General logic,,2023
+Q0_Metatheory,Logic,General logic,,2023
+Probability_Inequality_Completeness,Logic,General logic,,2023
+Synthetic_Completeness,Logic,General logic,,2023
+Boolos_Curious_Inference_Automated,Logic,General logic,,2022
+AOT,Logic,General logic,,2022
+Metalogic_ProofChecker,Logic,General logic,,2021
+Topological_Semantics,Logic,General logic,,2020
+FOL_Compactness,Logic,General logic,Classical first-order logic,2025
+First_Order_Clause,Logic,General logic,Classical first-order logic,2025
+SCL_Simulates_Ground_Resolution,Logic,General logic,Classical first-order logic,2024
+Given_Clause_Loops,Logic,General logic,Classical first-order logic,2023
+Safe_Range_RC,Logic,General logic,Classical first-order logic,2022
+FOL_Seq_Calc3,Logic,General logic,Classical first-order logic,2022
+Eval_FO,Logic,General logic,Classical first-order logic,2022
+FOL_Seq_Calc2,Logic,General logic,Classical first-order logic,2022
+FOL_Axiomatic,Logic,General logic,Classical first-order logic,2021
+FOL-Fitting,Logic,General logic,Classical first-order logic,2007
+Prop_Compactness,Logic,General logic,Classical propositional logic,2024
+QBF_Solver_Verification,Logic,General logic,Classical propositional logic,2024
+MLSS_Decision_Proc,Logic,General logic,Classical propositional logic,2023
+Probability_Inequality_Completeness,Logic,General logic,Classical propositional logic,2023
+Suppes_Theorem,Logic,General logic,Classical propositional logic,2023
+Propositional_Logic_Class,Logic,General logic,Classical propositional logic,2022
+Implicational_Logic,Logic,General logic,Classical propositional logic,2022
+Free-Boolean-Algebra,Logic,General logic,Classical propositional logic,2010
+MLSSmf_to_MLSS,Logic,General logic,Decidability of theories,2025
+MLSS_Decision_Proc,Logic,General logic,Decidability of theories,2023
+Formula_Derivatives,Logic,General logic,Decidability of theories,2015
+MSO_Regex_Equivalence,Logic,General logic,Decidability of theories,2014
+Presburger-Automata,Logic,General logic,Decidability of theories,2009
+LinearQuantifierElim,Logic,General logic,Decidability of theories,2008
+Stalnaker_Logic,Logic,General logic,Logics of knowledge and belief,2022
+PAL,Logic,General logic,Logics of knowledge and belief,2021
+Belief_Revision,Logic,General logic,Logics of knowledge and belief,2021
+Public_Announcement_Logic,Logic,General logic,Logics of knowledge and belief,2021
+Blue_Eyes,Logic,General logic,Logics of knowledge and belief,2021
+Epistemic_Logic,Logic,General logic,Logics of knowledge and belief,2018
+Axiom_Free_Ontological_Trinity,Logic,General logic,Mechanization of proofs,2026
+Splitting_Framework,Logic,General logic,Mechanization of proofs,2025
+Typed_Ordered_Resolution,Logic,General logic,Mechanization of proofs,2025
+Superposition_Calculus,Logic,General logic,Mechanization of proofs,2024
+Countable_Sums_and_Discrete_Distributions,Logic,General logic,Mechanization of proofs,2024
+Simple_Clause_Learning,Logic,General logic,Mechanization of proofs,2023
+FOL_Seq_Calc3,Logic,General logic,Mechanization of proofs,2022
+FOL_Seq_Calc2,Logic,General logic,Mechanization of proofs,2022
+Saturation_Framework_Extensions,Logic,General logic,Mechanization of proofs,2020
+Saturation_Framework,Logic,General logic,Mechanization of proofs,2020
+Binding_Syntax_Theory,Logic,General logic,Mechanization of proofs,2019
+Functional_Ordered_Resolution_Prover,Logic,General logic,Mechanization of proofs,2018
+Ordered_Resolution_Prover,Logic,General logic,Mechanization of proofs,2018
+FOL_Harrison,Logic,General logic,Mechanization of proofs,2017
+Resolution_FOL,Logic,General logic,Mechanization of proofs,2016
+PropResPI,Logic,General logic,Mechanization of proofs,2016
+Boolean_Expression_Checkers,Logic,General logic,Mechanization of proofs,2014
+Sort_Encodings,Logic,General logic,Mechanization of proofs,2013
+Verified-Prover,Logic,General logic,Mechanization of proofs,2004
+Axiom_Free_Ontological_Trinity,Logic,General logic,Modal logic,2026
+Weak_Spectroscopy,Logic,General logic,Modal logic,2025
+Bisimulation_Logic,Logic,General logic,Modal logic,2025
+FaithfulPMLinHOL,Logic,General logic,Modal logic,2025
+Notes_On_Goedels_Ontological_Argument,Logic,General logic,Modal logic,2025
+ILL,Logic,General logic,Modal logic,2024
+Coupledsim_Contrasim,Logic,General logic,Modal logic,2023
+SimplifiedOntologicalArgument,Logic,General logic,Modal logic,2021
+MFODL_Monitor_Optimized,Logic,General logic,Modal logic,2020
+Hybrid_Logic,Logic,General logic,Modal logic,2019
+Hybrid_Multi_Lane_Spatial_Logic,Logic,General logic,Modal logic,2017
+Differential_Dynamic_Logic,Logic,General logic,Modal logic,2017
+Modal_Logics_for_NTS,Logic,General logic,Modal logic,2016
+Paraconsistency,Logic,General logic,Paraconsistent logics,2016
+Mission_Time_LTL_Formula_Progression,Logic,General logic,Temporal logic,2025
+Mission_Time_LTL_Language_Partition,Logic,General logic,Temporal logic,2025
+Mission_Time_LTL_to_Regular_Expression,Logic,General logic,Temporal logic,2025
+Mission_Time_LTL,Logic,General logic,Temporal logic,2025
+LTL3_Semantics,Logic,General logic,Temporal logic,2024
+MFOTL_Checker,Logic,General logic,Temporal logic,2024
+LTL_Normal_Form,Logic,General logic,Temporal logic,2020
+MFOTL_Monitor,Logic,General logic,Temporal logic,2019
+Allen_Calculus,Logic,General logic,Temporal logic,2016
+LTL,Logic,General logic,Temporal logic,2016
+HyperCTL,Logic,General logic,Temporal logic,2014
+Nat-Interval-Logic,Logic,General logic,Temporal logic,2011
+Axiom_Free_Ontological_Trinity,Logic,Philosophical aspects,,2026
+Notes_On_Goedels_Ontological_Argument,Logic,Philosophical aspects,,2025
+CondNormReasHOL,Logic,Philosophical aspects,,2024
+Boolos_Curious_Inference_Automated,Logic,Philosophical aspects,,2022
+Boolos_Curious_Inference,Logic,Philosophical aspects,,2022
+SimplifiedOntologicalArgument,Logic,Philosophical aspects,,2021
+Mereology,Logic,Philosophical aspects,,2021
+Aristotles_Assertoric_Syllogistic,Logic,Philosophical aspects,,2019
+GewirthPGCProof,Logic,Philosophical aspects,,2018
+Lowe_Ontological_Argument,Logic,Philosophical aspects,,2017
+PLM,Logic,Philosophical aspects,,2017
+AnselmGod,Logic,Philosophical aspects,,2017
+Types_Tableaus_and_Goedels_God,Logic,Philosophical aspects,,2017
+GoedelGod,Logic,Philosophical aspects,,2013
+Synthetic_Completeness,Logic,Proof theory,,2023
+Propositional_Logic_Class,Logic,Proof theory,,2022
+Boolos_Curious_Inference_Automated,Logic,Proof theory,,2022
+Implicational_Logic,Logic,Proof theory,,2022
+FOL_Seq_Calc3,Logic,Proof theory,,2022
+FO_Theory_Rewriting,Logic,Proof theory,,2022
+FOL_Seq_Calc2,Logic,Proof theory,,2022
+FOL_Axiomatic,Logic,Proof theory,,2021
+Syntax_Independent_Logic,Logic,Proof theory,,2020
+Robinson_Arithmetic,Logic,Proof theory,,2020
+Goedel_Incompleteness,Logic,Proof theory,,2020
+Goedel_HFSet_Semanticless,Logic,Proof theory,,2020
+Goedel_HFSet_Semantic,Logic,Proof theory,,2020
+FOL_Seq_Calc1,Logic,Proof theory,,2019
+Propositional_Proof_Systems,Logic,Proof theory,,2017
+Abstract_Soundness,Logic,Proof theory,,2017
+SuperCalc,Logic,Proof theory,,2016
+Surprise_Paradox,Logic,Proof theory,,2016
+Incredible_Proof_Machine,Logic,Proof theory,,2016
+Abstract_Completeness,Logic,Proof theory,,2014
+Incompleteness,Logic,Proof theory,,2013
+SequentInvertibility,Logic,Proof theory,,2009
+Completeness,Logic,Proof theory,,2004
+Sorted_Rewriting,Logic,Rewriting,,2026
+Proof_Terms_Term_Rewriting,Logic,Rewriting,,2025
+First_Order_Rewriting,Logic,Rewriting,,2025
+Completeness_Decreasing_Diagrams_for_N1,Logic,Rewriting,,2025
+Sorted_Terms,Logic,Rewriting,,2024
+Pattern_Completeness,Logic,Rewriting,,2024
+Substitutions_Lambda_Free,Logic,Rewriting,,2024
+Orient_Rewrite_Rule_Undecidable,Logic,Rewriting,,2024
+Efficient_Weighted_Path_Order,Logic,Rewriting,,2023
+Rewrite_Properties_Reduction,Logic,Rewriting,,2022
+Multiset_Ordering_NPC,Logic,Rewriting,,2022
+FO_Theory_Rewriting,Logic,Rewriting,,2022
+Weighted_Path_Order,Logic,Rewriting,,2021
+Knuth_Bendix_Order,Logic,Rewriting,,2020
+Goodstein_Lambda,Logic,Rewriting,,2020
+CakeML_Codegen,Logic,Rewriting,,2019
+Graph_Saturation,Logic,Rewriting,,2018
+Lambda_Free_EPO,Logic,Rewriting,,2018
+First_Order_Terms,Logic,Rewriting,,2018
+Monad_Normalisation,Logic,Rewriting,,2017
+Nested_Multisets_Ordinals,Logic,Rewriting,,2016
+Lambda_Free_KBOs,Logic,Rewriting,,2016
+Lambda_Free_RPOs,Logic,Rewriting,,2016
+Rewriting_Z,Logic,Rewriting,,2016
+Decreasing-Diagrams-II,Logic,Rewriting,,2015
+Decreasing-Diagrams,Logic,Rewriting,,2013
+Abstract-Rewriting,Logic,Rewriting,,2010
+MLSSmf_to_MLSS,Logic,Set theory,,2025
+Category_Set,Logic,Set theory,,2024
+Cardinality_Continuum,Logic,Set theory,,2023
+MLSS_Decision_Proc,Logic,Set theory,,2023
+Independence_CH,Logic,Set theory,,2022
+Transitive_Models,Logic,Set theory,,2022
+Wetzels_Problem,Logic,Set theory,,2022
+CZH_Foundations,Logic,Set theory,,2021
+Delta_System_Lemma,Logic,Set theory,,2020
+Ordinal_Partitions,Logic,Set theory,,2020
+Recursion-Addition,Logic,Set theory,,2020
+Forcing,Logic,Set theory,,2020
+ZFC_in_HOL,Logic,Set theory,,2019
+HereditarilyFinite,Logic,Set theory,,2013
+Ordinals_and_Cardinals,Logic,Set theory,,2009
+Ordinal,Logic,Set theory,,2005
+Morley_Theorem,Mathematics,,,2025
+Hilbert_Basis,Mathematics,,,2025
+Interval_Analysis,Mathematics,,,2024
+AOT,Mathematics,,,2022
+Computational_pAdics,Mathematics,Algebra,,2025
+Restriction_Spaces-Examples,Mathematics,Algebra,,2025
+Generalized_Cauchy_Davenport,Mathematics,Algebra,,2024
+Two_Hermitian_Results,Mathematics,Algebra,,2024
+Pi_Irrational,Mathematics,Algebra,,2024
+Topological_Groups,Mathematics,Algebra,,2024
+Lie_Groups,Mathematics,Algebra,,2024
+Sorted_Terms,Mathematics,Algebra,,2024
+Countable_Sums_and_Discrete_Distributions,Mathematics,Algebra,,2024
+Schoenhage_Strassen,Mathematics,Algebra,,2024
+OmegaCatoidsQuantales,Mathematics,Algebra,,2024
+Isabelle_hoops,Mathematics,Algebra,,2024
+Polynomial_Crit_Geometry,Mathematics,Algebra,,2023
+Chebyshev_Polynomials,Mathematics,Algebra,,2023
+Perfect_Fields,Mathematics,Algebra,,2023
+Elimination_Of_Repeated_Factors,Mathematics,Algebra,,2023
+Relational_Cardinality,Mathematics,Algebra,,2023
+Catoids,Mathematics,Algebra,,2023
+Quantales_Converse,Mathematics,Algebra,,2023
+Multirelations_Heterogeneous,Mathematics,Algebra,,2023
+Schwartz_Zippel,Mathematics,Algebra,,2023
+TsirelsonBound,Mathematics,Algebra,,2023
+Edwards_Elliptic_Curves_Group,Mathematics,Algebra,,2023
+Birkhoff_Finite_Distributive_Lattices,Mathematics,Algebra,,2022
+Padic_Field,Mathematics,Algebra,,2022
+Commuting_Hermitian,Mathematics,Algebra,,2022
+Finite_Fields,Mathematics,Algebra,,2022
+Fishers_Inequality,Mathematics,Algebra,,2022
+LP_Duality,Mathematics,Algebra,,2022
+Interpolation_Polynomials_HOL_Algebra,Mathematics,Algebra,,2022
+Hyperdual,Mathematics,Algebra,,2021
+Factor_Algebraic_Polynomial,Mathematics,Algebra,,2021
+Finitely_Generated_Abelian_Groups,Mathematics,Algebra,,2021
+Grothendieck_Schemes,Mathematics,Algebra,,2021
+Formal_Puiseux_Series,Mathematics,Algebra,,2021
+Smith_Normal_Form,Mathematics,Algebra,,2020
+Power_Sum_Polynomials,Mathematics,Algebra,,2020
+Matrices_for_ODEs,Mathematics,Algebra,,2020
+Subset_Boolean_Algebras,Mathematics,Algebra,,2020
+Hybrid_Systems_VCs,Mathematics,Algebra,,2019
+Jacobson_Basic_Algebra,Mathematics,Algebra,,2019
+Linear_Programming,Mathematics,Algebra,,2019
+C2KA_DistributedSystems,Mathematics,Algebra,,2019
+Linear_Inequalities,Mathematics,Algebra,,2019
+Nullstellensatz,Mathematics,Algebra,,2019
+Groebner_Macaulay,Mathematics,Algebra,,2019
+Farkas,Mathematics,Algebra,,2019
+Transformer_Semantics,Mathematics,Algebra,,2018
+Quantales,Mathematics,Algebra,,2018
+Symmetric_Polynomials,Mathematics,Algebra,,2018
+Signature_Groebner,Mathematics,Algebra,,2018
+Aggregation_Algebras,Mathematics,Algebra,,2018
+Octonions,Mathematics,Algebra,,2018
+Quaternions,Mathematics,Algebra,,2018
+Localization_Ring,Mathematics,Algebra,,2018
+LLL_Factorization,Mathematics,Algebra,,2018
+LLL_Basis_Reduction,Mathematics,Algebra,,2018
+Taylor_Models,Mathematics,Algebra,,2018
+Mason_Stothers,Mathematics,Algebra,,2017
+Dirichlet_L,Mathematics,Algebra,,2017
+Stochastic_Matrices,Mathematics,Algebra,,2017
+Orbit_Stabiliser,Mathematics,Algebra,,2017
+Stone_Kleene_Relation_Algebras,Mathematics,Algebra,,2017
+PSemigroupsConvolution,Mathematics,Algebra,,2017
+Optics,Mathematics,Algebra,,2017
+Subresultants,Mathematics,Algebra,,2017
+Stone_Relation_Algebras,Mathematics,Algebra,,2017
+Berlekamp_Zassenhaus,Mathematics,Algebra,,2016
+Buildings,Mathematics,Algebra,,2016
+Algebraic_VCs,Mathematics,Algebra,,2016
+Perron_Frobenius,Mathematics,Algebra,,2016
+Groebner_Bases,Mathematics,Algebra,,2016
+KAD,Mathematics,Algebra,,2016
+Polynomial_Interpolation,Mathematics,Algebra,,2016
+Polynomial_Factorization,Mathematics,Algebra,,2016
+Matrix_Tensor,Mathematics,Algebra,,2016
+Algebraic_Numbers,Mathematics,Algebra,,2015
+Jordan_Normal_Form,Mathematics,Algebra,,2015
+Rep_Fin_Groups,Mathematics,Algebra,,2015
+Hermite,Mathematics,Algebra,,2015
+Multirelations,Mathematics,Algebra,,2015
+Residuated_Lattices,Mathematics,Algebra,,2015
+QR_Decomposition,Mathematics,Algebra,,2015
+Echelon_Form,Mathematics,Algebra,,2015
+Cayley_Hamilton,Mathematics,Algebra,,2014
+Jordan_Hoelder,Mathematics,Algebra,,2014
+VectorSpace,Mathematics,Algebra,,2014
+Regular_Algebras,Mathematics,Algebra,,2014
+Secondary_Sylow,Mathematics,Algebra,,2014
+Relation_Algebra,Mathematics,Algebra,,2014
+KAT_and_DRA,Mathematics,Algebra,,2014
+Rank_Nullity_Theorem,Mathematics,Algebra,,2013
+Kleene_Algebra,Mathematics,Algebra,,2013
+Impossible_Geometry,Mathematics,Algebra,,2012
+PseudoHoops,Mathematics,Algebra,,2011
+Gauss-Jordan-Elim-Fun,Mathematics,Algebra,,2011
+Polynomials,Mathematics,Algebra,,2010
+Free-Groups,Mathematics,Algebra,,2010
+Robbins-Conjecture,Mathematics,Algebra,,2010
+CofGroups,Mathematics,Algebra,,2009
+Valuation,Mathematics,Algebra,,2007
+Group-Ring-Module,Mathematics,Algebra,,2004
+Lebesgue_Stieltjes_Integral,Mathematics,Analysis,,2026
+Abel_Limit_Theorem,Mathematics,Analysis,,2025
+Unconstrained_Optimization,Mathematics,Analysis,,2025
+Kraus_Maps,Mathematics,Analysis,,2025
+Sigmoid_Universal_Approximation,Mathematics,Analysis,,2025
+Restriction_Spaces-Ultrametric,Mathematics,Analysis,,2025
+Restriction_Spaces-Examples,Mathematics,Analysis,,2025
+Restriction_Spaces,Mathematics,Analysis,,2025
+Hilbert_Space_Tensor_Product,Mathematics,Analysis,,2024
+Continued_Fractions,Mathematics,Analysis,,2024
+Interval_Analysis,Mathematics,Analysis,,2024
+Lambert_Series,Mathematics,Analysis,,2023
+Polylog,Mathematics,Analysis,,2023
+Eudoxus_Reals,Mathematics,Analysis,,2023
+Standard_Borel_Spaces,Mathematics,Analysis,,2023
+Weighted_Arithmetic_Geometric_Mean,Mathematics,Analysis,,2022
+Sophomores_Dream,Mathematics,Analysis,,2022
+Dedekind_Real,Mathematics,Analysis,,2022
+Cotangent_PFD_Formula,Mathematics,Analysis,,2022
+Wetzels_Problem,Mathematics,Analysis,,2022
+Youngs_Inequality,Mathematics,Analysis,,2022
+Hyperdual,Mathematics,Analysis,,2021
+Real_Power,Mathematics,Analysis,,2021
+Complex_Bounded_Operators,Mathematics,Analysis,,2021
+Cubic_Quartic_Equations,Mathematics,Analysis,,2021
+Three_Circles,Mathematics,Analysis,,2021
+Irrational_Series_Erdos_Straus,Mathematics,Analysis,,2020
+Banach_Steinhaus,Mathematics,Analysis,,2020
+Lambert_W,Mathematics,Analysis,,2020
+Matrices_for_ODEs,Mathematics,Analysis,,2020
+Poincare_Bendixson,Mathematics,Analysis,,2019
+Hybrid_Systems_VCs,Mathematics,Analysis,,2019
+Fourier,Mathematics,Analysis,,2019
+Laplace_Transform,Mathematics,Analysis,,2019
+Transcendence_Series_Hancl_Rucki,Mathematics,Analysis,,2019
+Smooth_Manifolds,Mathematics,Analysis,,2018
+Budan_Fourier,Mathematics,Analysis,,2018
+Irrationality_J_Hancl,Mathematics,Analysis,,2018
+Error_Function,Mathematics,Analysis,,2018
+Green,Mathematics,Analysis,,2018
+Taylor_Models,Mathematics,Analysis,,2018
+Winding_Number_Eval,Mathematics,Analysis,,2017
+Count_Complex_Roots,Mathematics,Analysis,,2017
+Zeta_Function,Mathematics,Analysis,,2017
+Linear_Recurrences,Mathematics,Analysis,,2017
+Euler_MacLaurin,Mathematics,Analysis,,2017
+Bernoulli,Mathematics,Analysis,,2017
+E_Transcendental,Mathematics,Analysis,,2017
+Deep_Learning,Mathematics,Analysis,,2016
+Lp,Mathematics,Analysis,,2016
+Stirling_Formula,Mathematics,Analysis,,2016
+Cartan_FP,Mathematics,Analysis,,2016
+Liouville_Numbers,Mathematics,Analysis,,2015
+Descartes_Sign_Rule,Mathematics,Analysis,,2015
+Landau_Symbols,Mathematics,Analysis,,2015
+Akra_Bazzi,Mathematics,Analysis,,2015
+Sturm_Tarski,Mathematics,Analysis,,2014
+Special_Function_Bounds,Mathematics,Analysis,,2014
+Affine_Arithmetic,Mathematics,Analysis,,2014
+Real_Impl,Mathematics,Analysis,,2014
+Sturm_Sequences,Mathematics,Analysis,,2014
+Sqrt_Babylonian,Mathematics,Analysis,,2013
+Ordinary_Differential_Equations,Mathematics,Analysis,,2012
+Lower_Semicontinuous,Mathematics,Analysis,,2011
+Polynomials,Mathematics,Analysis,,2010
+Cauchy,Mathematics,Analysis,,2006
+Integration,Mathematics,Analysis,,2004
+Sets_Revisited,Mathematics,Category theory,,2026
+Category_Set,Mathematics,Category theory,,2024
+ResiduatedTransitionSystem2,Mathematics,Category theory,,2024
+EnrichedCategoryBasics,Mathematics,Category theory,,2024
+OmegaCatoidsQuantales,Mathematics,Category theory,,2024
+CubicalCategories,Mathematics,Category theory,,2024
+Catoids,Mathematics,Category theory,,2023
+StrictOmegaCategories,Mathematics,Category theory,,2023
+CZH_Universal_Constructions,Mathematics,Category theory,,2021
+CZH_Foundations,Mathematics,Category theory,,2021
+CZH_Elementary_Categories,Mathematics,Category theory,,2021
+Bicategory,Mathematics,Category theory,,2020
+AxiomaticCategoryTheory,Mathematics,Category theory,,2018
+MonoidalCategory,Mathematics,Category theory,,2017
+Category3,Mathematics,Category theory,,2016
+Category2,Mathematics,Category theory,,2010
+Category,Mathematics,Category theory,,2005
+Swap_Distance,Mathematics,Combinatorics,,2026
+Dilworth,Mathematics,Combinatorics,,2025
+Transitive_Union_Closed_Families,Mathematics,Combinatorics,,2025
+Rogers_Ramanujan,Mathematics,Combinatorics,,2024
+Generalized_Cauchy_Davenport,Mathematics,Combinatorics,,2024
+Boustrophedon_Transform,Mathematics,Combinatorics,,2024
+Diagonal_Ramsey,Mathematics,Combinatorics,,2024
+Ramsey_Bounds,Mathematics,Combinatorics,,2024
+Prop_Compactness,Mathematics,Combinatorics,,2024
+Hypergraph_Colourings,Mathematics,Combinatorics,,2023
+Lovasz_Local,Mathematics,Combinatorics,,2023
+Hypergraph_Basics,Mathematics,Combinatorics,,2023
+Polygonal_Number_Theorem,Mathematics,Combinatorics,,2023
+Gray_Codes,Mathematics,Combinatorics,,2023
+Tree_Enumeration,Mathematics,Combinatorics,,2023
+Sauer_Shelah_Lemma,Mathematics,Combinatorics,,2022
+Kneser_Cauchy_Davenport,Mathematics,Combinatorics,,2022
+Combinatorial_Enumeration_Algorithms,Mathematics,Combinatorics,,2022
+Balog_Szemeredi_Gowers,Mathematics,Combinatorics,,2022
+Khovanskii_Theorem,Mathematics,Combinatorics,,2022
+Hales_Jewett,Mathematics,Combinatorics,,2022
+Pluennecke_Ruzsa_Inequality,Mathematics,Combinatorics,,2022
+Clique_and_Monotone_Circuits,Mathematics,Combinatorics,,2022
+Fishers_Inequality,Mathematics,Combinatorics,,2022
+Equivalence_Relation_Enumeration,Mathematics,Combinatorics,,2022
+Roth_Arithmetic_Progressions,Mathematics,Combinatorics,,2021
+Szemeredi_Regularity,Mathematics,Combinatorics,,2021
+Design_Theory,Mathematics,Combinatorics,,2021
+Van_der_Waerden,Mathematics,Combinatorics,,2021
+Sunflowers,Mathematics,Combinatorics,,2021
+Delta_System_Lemma,Mathematics,Combinatorics,,2020
+Ordinal_Partitions,Mathematics,Combinatorics,,2020
+Nash_Williams,Mathematics,Combinatorics,,2020
+Matroids,Mathematics,Combinatorics,,2018
+Falling_Factorial_Sum,Mathematics,Combinatorics,,2017
+Twelvefold_Way,Mathematics,Combinatorics,,2016
+Card_Multisets,Mathematics,Combinatorics,,2016
+Catalan_Numbers,Mathematics,Combinatorics,,2016
+Card_Equiv_Relations,Mathematics,Combinatorics,,2016
+Bell_Numbers_Spivey,Mathematics,Combinatorics,,2016
+Card_Number_Partitions,Mathematics,Combinatorics,,2016
+Card_Partitions,Mathematics,Combinatorics,,2015
+Latin_Square,Mathematics,Combinatorics,,2015
+Euler_Partition,Mathematics,Combinatorics,,2015
+Derangements,Mathematics,Combinatorics,,2015
+Discrete_Summation,Mathematics,Combinatorics,,2014
+Open_Induction,Mathematics,Combinatorics,,2012
+Bondy,Mathematics,Combinatorics,,2012
+Well_Quasi_Orders,Mathematics,Combinatorics,,2012
+Marriage,Mathematics,Combinatorics,,2010
+Ramsey-Infinite,Mathematics,Combinatorics,,2004
+SWF_Impossibility,Mathematics,Games and economics,,2026
+Arbitrage_Probability_Correspondence,Mathematics,Games and economics,,2026
+Weak_Spectroscopy,Mathematics,Games and economics,,2025
+Galois_Energy_Games,Mathematics,Games and economics,,2025
+Alpha_Beta_Pruning,Mathematics,Games and economics,,2024
+Actuarial_Mathematics,Mathematics,Games and economics,,2024
+Coupledsim_Contrasim,Mathematics,Games and economics,,2023
+PAPP_Impossibility,Mathematics,Games and economics,,2022
+Risk_Free_Lending,Mathematics,Games and economics,,2022
+Gale_Shapley,Mathematics,Games and economics,,2021
+GaleStewart_Games,Mathematics,Games and economics,,2021
+DiscretePricing,Mathematics,Games and economics,,2018
+Neumann_Morgenstern_Utility,Mathematics,Games and economics,,2018
+Fishburn_Impossibility,Mathematics,Games and economics,,2018
+First_Welfare_Theorem,Mathematics,Games and economics,,2017
+Stable_Matching,Mathematics,Games and economics,,2016
+Randomised_Social_Choice,Mathematics,Games and economics,,2016
+SDS_Impossibility,Mathematics,Games and economics,,2016
+Parity_Game,Mathematics,Games and economics,,2015
+Vickrey_Clarke_Groves,Mathematics,Games and economics,,2015
+SenSocialChoice,Mathematics,Games and economics,,2008
+ArrowImpossibilityGS,Mathematics,Games and economics,,2008
+Hidden_Number_Problem,Mathematics,Geometry,,2025
+Cube_Dissection,Mathematics,Geometry,,2024
+Lie_Groups,Mathematics,Geometry,,2024
+Picks_Theorem,Mathematics,Geometry,,2024
+Ceva,Mathematics,Geometry,,2023
+Foundation_of_geometry,Mathematics,Geometry,,2021
+Schutz_Spacetime,Mathematics,Geometry,,2021
+Grothendieck_Schemes,Mathematics,Geometry,,2021
+IsaGeoCoq,Mathematics,Geometry,,2021
+Poincare_Disc,Mathematics,Geometry,,2019
+Complex_Geometry,Mathematics,Geometry,,2019
+Nullstellensatz,Mathematics,Geometry,,2019
+Octonions,Mathematics,Geometry,,2018
+Quaternions,Mathematics,Geometry,,2018
+Projective_Geometry,Mathematics,Geometry,,2018
+Gromov_Hyperbolicity,Mathematics,Geometry,,2018
+Stewart_Apollonius,Mathematics,Geometry,,2017
+Minkowskis_Theorem,Mathematics,Geometry,,2017
+Buffons_Needle,Mathematics,Geometry,,2017
+Chord_Segments,Mathematics,Geometry,,2016
+Ptolemys_Theorem,Mathematics,Geometry,,2016
+Buildings,Mathematics,Geometry,,2016
+Triangle,Mathematics,Geometry,,2015
+Tarskis_Geometry,Mathematics,Geometry,,2012
+Impossible_Geometry,Mathematics,Geometry,,2012
+General-Triangle,Mathematics,Geometry,,2011
+Tree_Enumeration,Mathematics,Graph theory,,2023
+Expander_Graphs,Mathematics,Graph theory,,2023
+Turans_Graph_Theorem,Mathematics,Graph theory,,2022
+Balog_Szemeredi_Gowers,Mathematics,Graph theory,,2022
+Undirected_Graph_Theory,Mathematics,Graph theory,,2022
+Knights_Tour,Mathematics,Graph theory,,2022
+Roth_Arithmetic_Progressions,Mathematics,Graph theory,,2021
+Szemeredi_Regularity,Mathematics,Graph theory,,2021
+Relational_Forests,Mathematics,Graph theory,,2021
+Relational_Paths,Mathematics,Graph theory,,2020
+Graph_Saturation,Mathematics,Graph theory,,2018
+Factored_Transition_System_Bounding,Mathematics,Graph theory,,2018
+Prpu_Maxflow,Mathematics,Graph theory,,2017
+Flow_Networks,Mathematics,Graph theory,,2017
+Menger,Mathematics,Graph theory,,2017
+Tree_Decomposition,Mathematics,Graph theory,,2016
+MFMC_Countable,Mathematics,Graph theory,,2016
+Planarity_Certificates,Mathematics,Graph theory,,2015
+Parity_Game,Mathematics,Graph theory,,2015
+Gabow_SCC,Mathematics,Graph theory,,2014
+Random_Graph_Subgraph_Threshold,Mathematics,Graph theory,,2014
+Koenigsberg_Friendship,Mathematics,Graph theory,,2013
+ShortestPath,Mathematics,Graph theory,,2013
+Graph_Theory,Mathematics,Graph theory,,2013
+Girth_Chromatic,Mathematics,Graph theory,,2012
+Max-Card-Matching,Mathematics,Graph theory,,2011
+Flyspeck-Tame,Mathematics,Graph theory,,2006
+Riesz_Representation,Mathematics,Measure and integration,,2024
+Levy_Prokhorov_Metric,Mathematics,Measure and integration,,2024
+Coproduct_Measure,Mathematics,Measure and integration,,2024
+Disintegration,Mathematics,Measure and integration,,2023
+S_Finite_Measure_Monad,Mathematics,Measure and integration,,2023
+Hahn_Jordan_Decomposition,Mathematics,Measure and integration,,2021
+CVP_Hardness,Mathematics,Misc,,2023
+IMO2019,Mathematics,Misc,,2019
+FunWithTilings,Mathematics,Misc,,2008
+FunWithFunctions,Mathematics,Misc,,2008
+Diophantine_Universal_Pairs,Mathematics,Number theory,,2025
+Elliptic_Functions,Mathematics,Number theory,,2025
+Farey_Sequences,Mathematics,Number theory,,2025
+Pentagonal_Number_Theorem,Mathematics,Number theory,,2025
+Dedekind_Sums,Mathematics,Number theory,,2025
+Sophie_Germain,Mathematics,Number theory,,2025
+Theta_Functions,Mathematics,Number theory,,2024
+Rogers_Ramanujan,Mathematics,Number theory,,2024
+Combinatorial_Q_Analogues,Mathematics,Number theory,,2024
+Sum_Of_Squares_Count,Mathematics,Number theory,,2024
+Wooley_Elementary_Discrete_Inequality,Mathematics,Number theory,,2024
+Chebyshev_Prime_Bounds,Mathematics,Number theory,,2024
+PNT_with_Remainder,Mathematics,Number theory,,2024
+Kummer_Congruence,Mathematics,Number theory,,2024
+Wieferich_Kempner,Mathematics,Number theory,,2024
+Polygonal_Number_Theorem,Mathematics,Number theory,,2023
+Zeckendorf,Mathematics,Number theory,,2023
+Three_Squares,Mathematics,Number theory,,2023
+DigitsInBase,Mathematics,Number theory,,2023
+Padic_Field,Mathematics,Number theory,,2022
+Involutions2Squares,Mathematics,Number theory,,2022
+DPRM_Theorem,Mathematics,Number theory,,2022
+Digit_Expansions,Mathematics,Number theory,,2022
+Irrationals_From_THEBOOK,Mathematics,Number theory,,2022
+Lifting_the_Exponent,Mathematics,Number theory,,2021
+Padic_Ints,Mathematics,Number theory,,2021
+Hermite_Lindemann,Mathematics,Number theory,,2021
+Amicable_Numbers,Mathematics,Number theory,,2020
+Irrational_Series_Erdos_Straus,Mathematics,Number theory,,2020
+Gaussian_Integers,Mathematics,Number theory,,2020
+Lucas_Theorem,Mathematics,Number theory,,2020
+Furstenberg_Topology,Mathematics,Number theory,,2020
+Arith_Prog_Rel_Primes,Mathematics,Number theory,,2020
+Mersenne_Primes,Mathematics,Number theory,,2020
+Zeta_3_Irrational,Mathematics,Number theory,,2019
+Gauss_Sums,Mathematics,Number theory,,2019
+Transcendence_Series_Hancl_Rucki,Mathematics,Number theory,,2019
+Prime_Distribution_Elementary,Mathematics,Number theory,,2019
+Probabilistic_Prime_Tests,Mathematics,Number theory,,2019
+Pi_Transcendental,Mathematics,Number theory,,2018
+Prime_Number_Theorem,Mathematics,Number theory,,2018
+Pell,Mathematics,Number theory,,2018
+Irrationality_J_Hancl,Mathematics,Number theory,,2018
+Dirichlet_L,Mathematics,Number theory,,2017
+Diophantine_Eqns_Lin_Hom,Mathematics,Number theory,,2017
+Zeta_Function,Mathematics,Number theory,,2017
+Dirichlet_Series,Mathematics,Number theory,,2017
+Minkowskis_Theorem,Mathematics,Number theory,,2017
+Bernoulli,Mathematics,Number theory,,2017
+Bertrands_Postulate,Mathematics,Number theory,,2017
+E_Transcendental,Mathematics,Number theory,,2017
+Prime_Harmonic_Series,Mathematics,Number theory,,2015
+Liouville_Numbers,Mathematics,Number theory,,2015
+Stern_Brocot,Mathematics,Number theory,,2015
+Pratt_Certificate,Mathematics,Number theory,,2013
+Lehmer,Mathematics,Number theory,,2013
+Perfect-Number-Thm,Mathematics,Number theory,,2009
+SumSquares,Mathematics,Number theory,,2007
+Fermat3_4,Mathematics,Number theory,,2007
+Rankings,Mathematics,Order,,2026
+Relational_Divisibility,Mathematics,Order,,2025
+Dilworth,Mathematics,Order,,2025
+Min_Max_Least_Greatest,Mathematics,Order,,2024
+Transport,Mathematics,Order,,2023
+Quantales_Converse,Mathematics,Order,,2023
+Directed_Sets,Mathematics,Order,,2023
+Szpilrajn,Mathematics,Order,,2019
+Complete_Non_Orders,Mathematics,Order,,2019
+Order_Lattice_Props,Mathematics,Order,,2018
+Allen_Calculus,Mathematics,Order,,2016
+Stone_Algebras,Mathematics,Order,,2016
+LatticeProperties,Mathematics,Order,,2011
+GyrovectorSpaces,Mathematics,Physics,,2025
+MHComputation,Mathematics,Physics,,2023
+No_FTL_observers_Gen_Rel,Mathematics,Physics,,2023
+Schutz_Spacetime,Mathematics,Physics,,2021
+Physical_Quantities,Mathematics,Physics,,2020
+Safe_Distance,Mathematics,Physics,,2020
+No_FTL_observers,Mathematics,Physics,,2016
+Compressed_Oracles,Mathematics,Physics,Quantum information,2025
+Oneway2Hiding,Mathematics,Physics,Quantum information,2025
+Kraus_Maps,Mathematics,Physics,Quantum information,2025
+Quantum_Fourier_Transform,Mathematics,Physics,Quantum information,2025
+Uncertainty_Principle,Mathematics,Physics,Quantum information,2024
+TsirelsonBound,Mathematics,Physics,Quantum information,2023
+Projective_Measurements,Mathematics,Physics,Quantum information,2021
+Isabelle_Marries_Dirac,Mathematics,Physics,Quantum information,2020
+Arbitrage_Probability_Correspondence,Mathematics,Probability theory,,2026
+No_Free_Lunch_ML,Mathematics,Probability theory,,2025
+Kolmogorov_Chentsov,Mathematics,Probability theory,,2025
+Negative_Association,Mathematics,Probability theory,,2025
+Levy_Prokhorov_Metric,Mathematics,Probability theory,,2024
+Countable_Sums_and_Discrete_Distributions,Mathematics,Probability theory,,2024
+Doob_Convergence,Mathematics,Probability theory,,2024
+Martingales,Mathematics,Probability theory,,2023
+Concentration_Inequalities,Mathematics,Probability theory,,2023
+Disintegration,Mathematics,Probability theory,,2023
+Hypergraph_Colourings,Mathematics,Probability theory,,2023
+Lovasz_Local,Mathematics,Probability theory,,2023
+S_Finite_Measure_Monad,Mathematics,Probability theory,,2023
+Probability_Inequality_Completeness,Mathematics,Probability theory,,2023
+Suppes_Theorem,Mathematics,Probability theory,,2023
+Quasi_Borel_Spaces,Mathematics,Probability theory,,2022
+MDP-Rewards,Mathematics,Probability theory,,2021
+MDP-Algorithms,Mathematics,Probability theory,,2021
+Constructive_Cryptography_CM,Mathematics,Probability theory,,2021
+Laws_of_Large_Numbers,Mathematics,Probability theory,,2021
+Constructive_Cryptography,Mathematics,Probability theory,,2018
+DiscretePricing,Mathematics,Probability theory,,2018
+Hidden_Markov_Models,Mathematics,Probability theory,,2018
+Probabilistic_Timed_Automata,Mathematics,Probability theory,,2018
+Buffons_Needle,Mathematics,Probability theory,,2017
+Probabilistic_While,Mathematics,Probability theory,,2017
+CryptHOL,Mathematics,Probability theory,,2017
+Source_Coding_Theorem,Mathematics,Probability theory,,2016
+Ergodic_Theory,Mathematics,Probability theory,,2015
+Density_Compiler,Mathematics,Probability theory,,2014
+Random_Graph_Subgraph_Threshold,Mathematics,Probability theory,,2014
+Markov_Models,Mathematics,Probability theory,,2012
+Restriction_Spaces-Ultrametric,Mathematics,Topology,,2025
+Restriction_Spaces-Examples,Mathematics,Topology,,2025
+Restriction_Spaces,Mathematics,Topology,,2025
+Elementary_Ultrametric_Spaces,Mathematics,Topology,,2025
+Riesz_Representation,Mathematics,Topology,,2024
+Levy_Prokhorov_Metric,Mathematics,Topology,,2024
+Stone_Cech,Mathematics,Topology,,2024
+Euler_Polyhedron_Formula,Mathematics,Topology,,2023
+Standard_Borel_Spaces,Mathematics,Topology,,2023
+Simplicial_complexes_and_boolean_functions,Mathematics,Topology,,2021
+Smooth_Manifolds,Mathematics,Topology,,2018
+Kuratowski_Closure_Complement,Mathematics,Topology,,2017
+Knot_Theory,Mathematics,Topology,,2016
+Topology,Mathematics,Topology,,2004
+Isabelle-Solidity,Tools,,,2026
+Zippy,Tools,,,2025
+Neural_Networks,Tools,,,2025
+Path_Automation,Tools,,,2025
+Munta_Certificate_Checker,Tools,,,2025
+Munta_Model_Checker,Tools,,,2025
+Restriction_Spaces,Tools,,,2025
+Wlog,Tools,,,2024
+With_Type,Tools,,,2024
+AutoCorres2,Tools,,,2024
+Go,Tools,,,2024
+ML_Unification,Tools,,,2023
+Boolos_Curious_Inference_Automated,Tools,,,2022
+Nano_JSON,Tools,,,2022
+Types_To_Sets_Extension,Tools,,,2021
+Intro_Dest_Elim,Tools,,,2021
+Conditional_Transfer_Rule,Tools,,,2021
+Conditional_Simplification,Tools,,,2021
+SpecCheck,Tools,,,2021
+Automated_Stateful_Protocol_Verification,Tools,,,2020
+Isabelle_C,Tools,,,2019
+Auto2_HOL,Tools,,,2018
+BNF_CC,Tools,,,2018
+BNF_Operations,Tools,,,2017
+Diophantine_Eqns_Lin_Hom,Tools,,,2017
+Dict_Construction,Tools,,,2017
+Monad_Normalisation,Tools,,,2017
+Constructor_Funs,Tools,,,2017
+Lazy_Case,Tools,,,2017
+Proof_Strategy_Language,Tools,,,2016
+Separata,Tools,,,2016
+Case_Labeling,Tools,,,2015
+Nominal2,Tools,,,2013
+DPT-SAT-Solver,Tools,,,2009
