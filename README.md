@@ -10,8 +10,8 @@ This repository contains small Python tools for the Archive of Formal Proofs top
 
 The repository checks in two generated datasets:
 
-- `afp_topics.json`: the crawled topics dataset with per-topic entry URLs.
-- `afp_topics.csv`: a flattened CSV with columns `id,topic1,topic2,topic3`.
+- `afp_topics.json`: the crawled topics dataset with per-topic entry URLs and published years.
+- `afp_topics.csv`: a flattened CSV with columns `id,topic1,topic2,topic3,published_year`.
 
 Regenerate them with:
 
@@ -26,6 +26,7 @@ python3 afp_topics_to_csv.py --input afp_topics.json --output afp_topics.csv
 
 - `id`: the AFP entry filename without the `.html` extension.
 - `topic1`, `topic2`, `topic3`: the topic hierarchy extracted from the AFP page title.
+- `published_year`: the year heading shown for the entry on the AFP topic page.
 
 For example, the entry URL `https://www.isa-afp.org/entries/Dynamic_Pushdown_Networks.html` becomes the CSV id `Dynamic_Pushdown_Networks`.
 
@@ -40,7 +41,7 @@ python3 merge_afp_topics_into_metadata.py \
   --output theories_metadata_with_topics.csv
 ```
 
-Before merging, the script deduplicates `afp_topics.csv` by `id`. If an entry appears multiple times, it keeps the row with the deepest topic assignment (most non-empty topic columns); ties are resolved by keeping the later row in the CSV.
+Before merging, the script deduplicates `afp_topics.csv` by `id`. If an entry appears multiple times, it keeps the row with the deepest topic assignment (most non-empty topic columns); ties are resolved by keeping the later row in the CSV. The merge also fills `published_year` from the AFP topics CSV, while preserving any existing value when no topic match is found. The CSV reader also raises the parser field-size limit so very large metadata columns can be loaded safely.
 
 ## JSON format
 
@@ -57,7 +58,7 @@ The generated JSON contains:
   - expected count from the topics index,
   - extracted entry count,
   - a boolean indicating whether the extracted count matches the index,
-  - the list of AFP entry URLs.
+  - the list of AFP entry URLs and their published years.
 
 ## Notes
 

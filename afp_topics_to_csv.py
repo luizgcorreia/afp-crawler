@@ -30,19 +30,20 @@ def topic_levels(page_title: str) -> tuple[str, str, str]:
 def iter_csv_rows(dataset: dict[str, object]):
     for topic in dataset["topics"]:
         level1, level2, level3 = topic_levels(topic["page_title"])
-        for entry_url in topic["entries"]:
+        for entry in topic["entries"]:
             yield {
-                "id": entry_id_from_url(entry_url),
+                "id": entry_id_from_url(entry["url"]),
                 "topic1": level1,
                 "topic2": level2,
                 "topic3": level3,
+                "published_year": entry.get("published_year", "") or "",
             }
 
 
 def write_csv(dataset: dict[str, object], output_path: Path) -> int:
     rows = list(iter_csv_rows(dataset))
     with output_path.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=["id", "topic1", "topic2", "topic3"])
+        writer = csv.DictWriter(handle, fieldnames=["id", "topic1", "topic2", "topic3", "published_year"])
         writer.writeheader()
         writer.writerows(rows)
     return len(rows)

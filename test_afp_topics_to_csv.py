@@ -26,13 +26,24 @@ def test_write_csv_emits_one_row_per_topic_entry_assignment(tmp_path: Path):
         "topics": [
             {
                 "page_title": "Computer science",
-                "entries": ["https://www.isa-afp.org/entries/Dynamic_Pushdown_Networks.html"],
+                "entries": [
+                    {
+                        "url": "https://www.isa-afp.org/entries/Dynamic_Pushdown_Networks.html",
+                        "published_year": 2025,
+                    }
+                ],
             },
             {
                 "page_title": "Computer science/Algorithms/Approximation",
                 "entries": [
-                    "https://www.isa-afp.org/entries/Concentrated_Liquidity_Market_Making_Operations.html",
-                    "https://www.isa-afp.org/entries/Set_Reconciliation.html",
+                    {
+                        "url": "https://www.isa-afp.org/entries/Concentrated_Liquidity_Market_Making_Operations.html",
+                        "published_year": 2024,
+                    },
+                    {
+                        "url": "https://www.isa-afp.org/entries/Set_Reconciliation.html",
+                        "published_year": 2024,
+                    },
                 ],
             },
         ]
@@ -51,17 +62,20 @@ def test_write_csv_emits_one_row_per_topic_entry_assignment(tmp_path: Path):
             "topic1": "Computer science",
             "topic2": "",
             "topic3": "",
+            "published_year": "2025",
         },
         {
             "id": "Concentrated_Liquidity_Market_Making_Operations",
             "topic1": "Computer science",
             "topic2": "Algorithms",
             "topic3": "Approximation",
+            "published_year": "2024",
         },
         {
             "id": "Set_Reconciliation",
             "topic1": "Computer science",
             "topic2": "Algorithms",
             "topic3": "Approximation",
+            "published_year": "2024",
         },
     ]

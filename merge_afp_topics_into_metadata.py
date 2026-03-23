@@ -5,10 +5,21 @@ from __future__ import annotations
 
 import argparse
 import csv
+import sys
 from pathlib import Path
 
 TOPIC_COLUMNS = ("topic1", "topic2", "topic3")
 DOMAIN_COLUMNS = ("domain_cluster1", "domain_cluster2", "domain_cluster3")
+PUBLISHED_YEAR_COLUMN = "published_year"
+
+
+def configure_csv_field_size_limit() -> int:
+    limit = sys.maxsize
+    while True:
+        try:
+            return csv.field_size_limit(limit)
+        except OverflowError:
+            limit //= 10
 
 
 def topic_depth(row: dict[str, str]) -> int:
@@ -35,11 +46,13 @@ def merge_topic_columns(
         topic_row = topic_rows_by_id.get(row["id"], {})
         for topic_column, domain_column in zip(TOPIC_COLUMNS, DOMAIN_COLUMNS):
             merged_row[domain_column] = topic_row.get(topic_column, "")
+        merged_row[PUBLISHED_YEAR_COLUMN] = topic_row.get(PUBLISHED_YEAR_COLUMN, merged_row.get(PUBLISHED_YEAR_COLUMN, ""))
         merged_rows.append(merged_row)
     return merged_rows
 
 
 def read_csv_rows(path: Path) -> list[dict[str, str]]:
+    configure_csv_field_size_limit()
     with path.open(newline="", encoding="utf-8") as handle:
         return list(csv.DictReader(handle))
 
@@ -52,7 +65,10 @@ def write_csv_rows(path: Path, rows: list[dict[str, str]], fieldnames: list[str]
 
 
 def output_fieldnames(metadata_fieldnames: list[str]) -> list[str]:
-    return metadata_fieldnames + [column for column in DOMAIN_COLUMNS if column not in metadata_fieldnames]
+    ordered_new_columns = list(DOMAIN_COLUMNS)
+    if PUBLISHED_YEAR_COLUMN not in metadata_fieldnames:
+        ordered_new_columns.append(PUBLISHED_YEAR_COLUMN)
+    return metadata_fieldnames + [column for column in ordered_new_columns if column not in metadata_fieldnames]
 
 
 def main(argv: list[str] | None = None) -> int:

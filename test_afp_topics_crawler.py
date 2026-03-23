@@ -1,4 +1,4 @@
-from afp_topics_crawler import TopicRef, build_output, parse_topic_entries, parse_topics_index
+from afp_topics_crawler import EntryRef, TopicRef, build_output, parse_topic_entries, parse_topics_index
 
 
 TOPICS_INDEX_HTML = """
@@ -15,10 +15,26 @@ TOPICS_INDEX_HTML = """
 TOPIC_PAGE_HTML = """
 <html><body>
 <h1>Computer science/Algorithms</h1>
-<h5><a href="/entries/Concentrated_Liquidity_Market_Making_Operations.html">Concentrated Liquidity Market Making Operations</a></h5>
-<p>by <a href="/authors/someone/">Someone</a></p>
-<h5><a href="https://www.isa-afp.org/entries/Set_Reconciliation.html">Set Reconciliation</a></h5>
-<h5><a href="/entries/Set_Reconciliation.html">Set Reconciliation</a></h5>
+<h2 class="head">2025</h2>
+<article class="entry">
+  <div class="item-text">
+    <h5><a class="title" href="/entries/Concentrated_Liquidity_Market_Making_Operations.html">Concentrated Liquidity Market Making Operations</a></h5>
+  </div>
+  <span class="date">Dec 23</span>
+</article>
+<article class="entry">
+  <div class="item-text">
+    <h5><a class="title" href="https://www.isa-afp.org/entries/Set_Reconciliation.html">Set Reconciliation</a></h5>
+  </div>
+  <span class="date">Nov 3</span>
+</article>
+<h2 class="head">2024</h2>
+<article class="entry">
+  <div class="item-text">
+    <h5><a class="title" href="/entries/Set_Reconciliation.html">Set Reconciliation</a></h5>
+  </div>
+  <span class="date">Jan 2</span>
+</article>
 </body></html>
 """
 
@@ -33,19 +49,22 @@ def test_parse_topics_index_collects_all_topic_links_once():
     ]
 
 
-def test_parse_topic_entries_filters_and_deduplicates_entry_links():
+def test_parse_topic_entries_filters_deduplicates_and_preserves_years():
     topic = TopicRef("Algorithms", "https://www.isa-afp.org/topics/computer-science/algorithms/", 54)
 
     parsed = parse_topic_entries(TOPIC_PAGE_HTML, topic)
 
     assert parsed.page_title == "Computer science/Algorithms"
     assert parsed.entries == [
-        "https://www.isa-afp.org/entries/Concentrated_Liquidity_Market_Making_Operations.html",
-        "https://www.isa-afp.org/entries/Set_Reconciliation.html",
+        EntryRef(
+            url="https://www.isa-afp.org/entries/Concentrated_Liquidity_Market_Making_Operations.html",
+            published_year=2025,
+        ),
+        EntryRef(url="https://www.isa-afp.org/entries/Set_Reconciliation.html", published_year=2025),
     ]
 
 
-def test_build_output_includes_count_match_flag():
+def test_build_output_includes_count_match_flag_and_published_year():
     topic = TopicRef("Algorithms", "https://www.isa-afp.org/topics/computer-science/algorithms/", 2)
     parsed = parse_topic_entries(TOPIC_PAGE_HTML, topic)
 
@@ -60,3 +79,4 @@ def test_build_output_includes_count_match_flag():
     assert payload["topic_count"] == 1
     assert payload["total_topic_entry_links"] == 2
     assert payload["topics"][0]["count_matches_index"] is True
+    assert payload["topics"][0]["entries"][0]["published_year"] == 2025

@@ -7,12 +7,12 @@ import argparse
 import json
 import re
 import sys
-from datetime import datetime, timezone
 from dataclasses import dataclass
-from urllib.error import URLError
+from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
 from typing import Iterable
+from urllib.error import URLError
 from urllib.parse import urljoin, urlparse
 from urllib.request import Request, urlopen
 
@@ -27,6 +27,12 @@ class TopicRef:
     name: str
     topic_url: str
     expected_count: int | None = None
+
+
+@dataclass(frozen=True)
+class EntryRef:
+    url: str
+    published_year: int | None
 
 
 class LinkCollector(HTMLParser):
@@ -68,13 +74,6 @@ class LinkCollector(HTMLParser):
             self._heading_chunks = []
 
 
-class TopicPageParser(LinkCollector):
-    @property
-    def title(self) -> str | None:
-        titles = self.heading_texts.get("h1") or []
-        return titles[0] if titles else None
-
-
 class TopicsIndexParser(LinkCollector):
     def topic_refs(self, base_url: str = BASE_URL) -> list[TopicRef]:
         seen: set[str] = set()
@@ -92,13 +91,80 @@ class TopicsIndexParser(LinkCollector):
         return topics
 
 
+class TopicPageParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self._in_h1 = False
+        self._h1_chunks: list[str] = []
+        self._in_year_heading = False
+        self._year_chunks: list[str] = []
+        self._current_year: int | None = None
+        self._in_article = False
+        self._current_entry_href: str | None = None
+        self._current_entry_text_chunks: list[str] = []
+        self._title: str | None = None
+        self.entries: list[EntryRef] = []
+
+    @property
+    def title(self) -> str | None:
+        return self._title
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attrs_dict = dict(attrs)
+        classes = set((attrs_dict.get("class") or "").split())
+
+        if tag == "h1":
+            self._in_h1 = True
+            self._h1_chunks = []
+        elif tag == "h2" and "head" in classes:
+            self._in_year_heading = True
+            self._year_chunks = []
+        elif tag == "article" and "entry" in classes:
+            self._in_article = True
+            self._current_entry_href = None
+            self._current_entry_text_chunks = []
+        elif tag == "a" and self._in_article and "title" in classes:
+            self._current_entry_href = attrs_dict.get("href")
+            self._current_entry_text_chunks = []
+
+    def handle_data(self, data: str) -> None:
+        if self._in_h1:
+            self._h1_chunks.append(data)
+        if self._in_year_heading:
+            self._year_chunks.append(data)
+        if self._current_entry_href is not None:
+            self._current_entry_text_chunks.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag == "h1" and self._in_h1:
+            text = normalize_whitespace("".join(self._h1_chunks))
+            if text:
+                self._title = text
+            self._in_h1 = False
+            self._h1_chunks = []
+        elif tag == "h2" and self._in_year_heading:
+            year_text = normalize_whitespace("".join(self._year_chunks))
+            self._current_year = int(year_text) if year_text.isdigit() else None
+            self._in_year_heading = False
+            self._year_chunks = []
+        elif tag == "a" and self._current_entry_href is not None:
+            # The article is finalized on </article>; this clears anchor-local text capture.
+            self._current_entry_text_chunks = self._current_entry_text_chunks
+        elif tag == "article" and self._in_article:
+            if self._current_entry_href:
+                self.entries.append(EntryRef(url=self._current_entry_href, published_year=self._current_year))
+            self._in_article = False
+            self._current_entry_href = None
+            self._current_entry_text_chunks = []
+
+
 @dataclass(frozen=True)
 class TopicEntries:
     name: str
     topic_url: str
     page_title: str | None
     expected_count: int | None
-    entries: list[str]
+    entries: list[EntryRef]
 
 
 def normalize_whitespace(text: str) -> str:
@@ -137,17 +203,17 @@ def parse_topic_entries(html: str, topic: TopicRef, *, base_url: str = BASE_URL)
     parser = TopicPageParser()
     parser.feed(html)
 
-    entries: list[str] = []
+    entries: list[EntryRef] = []
     seen_entries: set[str] = set()
-    for href, _text in parser.links:
-        absolute_url = urljoin(base_url, href)
+    for entry in parser.entries:
+        absolute_url = urljoin(base_url, entry.url)
         parsed = urlparse(absolute_url)
         if not parsed.path.startswith("/entries/") or not parsed.path.endswith(".html"):
             continue
         if absolute_url in seen_entries:
             continue
         seen_entries.add(absolute_url)
-        entries.append(absolute_url)
+        entries.append(EntryRef(url=absolute_url, published_year=entry.published_year))
 
     return TopicEntries(
         name=topic.name,
@@ -187,7 +253,13 @@ def build_output(
                 "expected_count": topic.expected_count,
                 "entry_count": len(topic.entries),
                 "count_matches_index": topic.expected_count is None or topic.expected_count == len(topic.entries),
-                "entries": topic.entries,
+                "entries": [
+                    {
+                        "url": entry.url,
+                        "published_year": entry.published_year,
+                    }
+                    for entry in topic.entries
+                ],
             }
             for topic in topic_list
         ],
